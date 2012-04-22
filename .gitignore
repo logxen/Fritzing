@@ -1,3 +1,6 @@
 /.svn/
 *.o
 Makefile*
+release/
+Fritzing
+
