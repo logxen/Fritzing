@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5759/trunk/fritzing/translations/syntax
+END
+arduino.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5759/trunk/fritzing/translations/syntax/arduino.xml
+END
+styles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4129/trunk/fritzing/translations/syntax/styles.xml
+END
+picaxe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4349/trunk/fritzing/translations/syntax/picaxe.xml
+END

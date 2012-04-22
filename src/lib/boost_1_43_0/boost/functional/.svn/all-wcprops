@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/functional
+END
+hash.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/functional/hash.hpp
+END
+hash_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/functional/hash_fwd.hpp
+END

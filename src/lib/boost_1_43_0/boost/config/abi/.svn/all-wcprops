@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/abi
+END
+msvc_suffix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/abi/msvc_suffix.hpp
+END
+borland_prefix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/abi/borland_prefix.hpp
+END
+borland_suffix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/abi/borland_suffix.hpp
+END
+msvc_prefix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/abi/msvc_prefix.hpp
+END

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='1.606in' height='1.35933in' viewBox='0 0 40.7924 34.527' >
+<g id='schematic'>
+<line class='other' x1='5.1562' y1='6.46' x2='5.1562' y2='34.4' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='5.1562' y1='34.4' x2='35.6362' y2='34.4' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='35.6362' y1='34.4' x2='35.6362' y2='6.46' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='35.6362' y1='6.46' x2='5.1562' y2='6.46' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<text class='text' font-family='OCRA' stroke='none' stroke-width='0' fill='#000000' font-size='2.3114' x='15.3162' y='9' text-anchor='start'>EXTRA</text>
+<line class='pin' id='connector0pin' connectorname='RE5/AN29' x1='0.0762' y1='16.62' x2='5.1562' y2='16.62' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector0terminal' x='0.0762' y='16.62' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector1pin' connectorname='RE6/AN30' x1='0.0762' y1='14.08' x2='5.1562' y2='14.08' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector1terminal' x='0.0762' y='14.08' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector2pin' connectorname='RE7/AN31' x1='0.0762' y1='11.54' x2='5.1562' y2='11.54' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector2terminal' x='0.0762' y='11.54' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector3pin' connectorname='RG0/C2RX' x1='0.0762' y1='24.24' x2='5.1562' y2='24.24' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector3terminal' x='0.0762' y='24.24' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector4pin' connectorname='RG1/C2TX' x1='0.0762' y1='26.78' x2='5.1562' y2='26.78' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector4terminal' x='0.0762' y='26.78' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector5pin' connectorname='RG13/CSDO' x1='40.7162' y1='16.62' x2='35.6362' y2='16.62' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector5terminal' x='40.7162' y='16.62' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector6pin' connectorname='RG12/CSDI' x1='40.7162' y1='19.16' x2='35.6362' y2='19.16' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector6terminal' x='40.7162' y='19.16' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector7pin' connectorname='RG14/CSCK' x1='40.7162' y1='14.08' x2='35.6362' y2='14.08' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector7terminal' x='40.7162' y='14.08' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector8pin' connectorname='RA0/TMS' x1='0.0762' y1='19.16' x2='5.1562' y2='19.16' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector8terminal' x='0.0762' y='19.16' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector9pin' connectorname='RA15' x1='0.0762' y1='31.86' x2='5.1562' y2='31.86' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector9terminal' x='0.0762' y='31.86' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector10pin' connectorname='RC15/OSC2' x1='40.7162' y1='24.24' x2='35.6362' y2='24.24' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector10terminal' x='40.7162' y='24.24' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector11pin' connectorname='RC12/OSC1' x1='40.7162' y1='26.78' x2='35.6362' y2='26.78' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector11terminal' x='40.7162' y='26.78' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector12pin' connectorname='RG15/COFS' x1='40.7162' y1='11.54' x2='35.6362' y2='11.54' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector12terminal' x='40.7162' y='11.54' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+</g>
+</svg>

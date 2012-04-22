@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5159/trunk/fritzing/resources/parts/svg/core/schematic
+END
+frame.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5159/trunk/fritzing/resources/parts/svg/core/schematic/frame.svg
+END
+power.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4169/trunk/fritzing/resources/parts/svg/core/schematic/power.svg
+END
+ground.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5157/trunk/fritzing/resources/parts/svg/core/schematic/ground.svg
+END
+cell.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3708/trunk/fritzing/resources/parts/svg/core/schematic/cell.svg
+END

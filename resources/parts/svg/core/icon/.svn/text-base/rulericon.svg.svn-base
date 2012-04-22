@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32.074px" height="32px"
+	 viewBox="0 0 32.074 32" enable-background="new 0 0 32.074 32" xml:space="preserve">
+<sodipodi:namedview  units="mm" id="base" showgrid="false" showguides="true" pagecolor="#ffffff" bordercolor="#666666" guidetolerance="10.0" gridtolerance="10.0" objecttolerance="10.0" borderopacity="1.0">
+	</sodipodi:namedview>
+<g id="icon" transform="translate(-150.09177,-28.043049)">
+	<line id="line10" fill="none" stroke="#000000" x1="153.973" y1="35.54" x2="153.973" y2="20.41"/>
+	<line id="line12" fill="none" stroke="#000000" x1="153.973" y1="53.644" x2="153.973" y2="68.774"/>
+	<line id="line16" fill="none" stroke="#000000" x1="158.481" y1="53.644" x2="158.481" y2="57.274"/>
+	<line id="line18" fill="none" stroke="#000000" x1="156.888" y1="35.54" x2="156.888" y2="31.909"/>
+	<line id="line20" fill="none" stroke="#000000" x1="162.989" y1="53.644" x2="162.989" y2="57.274"/>
+	<line id="line22" fill="none" stroke="#000000" x1="159.802" y1="35.54" x2="159.802" y2="31.909"/>
+	<line id="line24" fill="none" stroke="#000000" x1="162.717" y1="35.54" x2="162.717" y2="30.168"/>
+	<line id="line26" fill="none" stroke="#000000" x1="167.499" y1="53.644" x2="167.499" y2="57.274"/>
+	<line id="line28" fill="none" stroke="#000000" x1="172.006" y1="53.644" x2="172.006" y2="59.043"/>
+	<line id="line30" fill="none" stroke="#000000" x1="165.631" y1="35.54" x2="165.631" y2="31.909"/>
+	<line id="line32" fill="none" stroke="#000000" x1="176.516" y1="53.644" x2="176.516" y2="57.274"/>
+	<line id="line34" fill="none" stroke="#000000" x1="168.547" y1="35.54" x2="168.547" y2="31.909"/>
+	<line id="line36" fill="none" stroke="#000000" x1="171.461" y1="35.54" x2="171.461" y2="23.436"/>
+	<line id="line38" fill="none" stroke="#000000" x1="181.025" y1="53.644" x2="181.025" y2="57.274"/>
+	<line id="line42" fill="none" stroke="#000000" x1="174.374" y1="35.54" x2="174.374" y2="31.909"/>
+	<line id="line46" fill="none" stroke="#000000" x1="177.289" y1="35.54" x2="177.289" y2="31.909"/>
+	<line id="line48" fill="none" stroke="#000000" x1="180.203" y1="35.54" x2="180.203" y2="30.168"/>
+</g>
+<rect x="2.674" y="8.122" fill="none" width="24.625" height="9.5"/>
+<text transform="matrix(1 0 0 1 2.6743 14.9619)" font-family="'DroidSans'" font-size="9">cm</text>
+<rect x="2.674" y="16.75" fill="none" width="24.625" height="9.5"/>
+<text transform="matrix(1 0 0 1 2.6743 23.5898)" font-family="'DroidSans'" font-size="9">in</text>
+</svg>

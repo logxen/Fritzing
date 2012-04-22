@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/concept/detail
+END
+concept_def.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/concept/detail/concept_def.hpp
+END
+concept_undef.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/concept/detail/concept_undef.hpp
+END
+general.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/concept/detail/general.hpp
+END
+borland.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/concept/detail/borland.hpp
+END
+has_constraints.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/concept/detail/has_constraints.hpp
+END
+msvc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/concept/detail/msvc.hpp
+END

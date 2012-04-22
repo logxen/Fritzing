@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5944/trunk/fritzing/src/partsbinpalette
+END
+partsbincommands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4183/trunk/fritzing/src/partsbinpalette/partsbincommands.cpp
+END
+partsbinpalettewidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5944/trunk/fritzing/src/partsbinpalette/partsbinpalettewidget.cpp
+END
+partsbincommands.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4183/trunk/fritzing/src/partsbinpalette/partsbincommands.h
+END
+partsbinlistview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5783/trunk/fritzing/src/partsbinpalette/partsbinlistview.cpp
+END
+partsbinpalettewidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5783/trunk/fritzing/src/partsbinpalette/partsbinpalettewidget.h
+END
+svgiconwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5302/trunk/fritzing/src/partsbinpalette/svgiconwidget.cpp
+END
+partsbinview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5783/trunk/fritzing/src/partsbinpalette/partsbinview.cpp
+END
+partsbinlistview.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5619/trunk/fritzing/src/partsbinpalette/partsbinlistview.h
+END
+svgiconwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5143/trunk/fritzing/src/partsbinpalette/svgiconwidget.h
+END
+partsbinview.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5619/trunk/fritzing/src/partsbinpalette/partsbinview.h
+END
+searchlineedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4183/trunk/fritzing/src/partsbinpalette/searchlineedit.cpp
+END
+partsbiniconview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5721/trunk/fritzing/src/partsbinpalette/partsbiniconview.cpp
+END
+graphicsflowlayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5436/trunk/fritzing/src/partsbinpalette/graphicsflowlayout.cpp
+END
+simpleeditablelabelwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4183/trunk/fritzing/src/partsbinpalette/simpleeditablelabelwidget.cpp
+END
+searchlineedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4183/trunk/fritzing/src/partsbinpalette/searchlineedit.h
+END
+partsbiniconview.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5721/trunk/fritzing/src/partsbinpalette/partsbiniconview.h
+END
+graphicsflowlayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5309/trunk/fritzing/src/partsbinpalette/graphicsflowlayout.h
+END
+simpleeditablelabelwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4183/trunk/fritzing/src/partsbinpalette/simpleeditablelabelwidget.h
+END

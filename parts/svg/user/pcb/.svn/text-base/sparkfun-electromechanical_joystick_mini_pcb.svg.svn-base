@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.334646in' height='0.403543in' viewBox='0 0 8.5 10.25' >
+<g id='copper1'>
+<rect id='connector0pad' connectorname='A' x='0' y='3.18' width='1.85' height='1.1' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
+<rect id='connector1pad' connectorname='B' x='6.65' y='3.18' width='1.85' height='1.1' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
+<rect id='connector2pad' connectorname='C' x='0' y='5.98' width='1.85' height='1.1' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
+<rect id='connector3pad' connectorname='CTR' x='0' y='4.58' width='1.85' height='1.1' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
+<rect id='connector4pad' connectorname='D' x='6.65' y='5.98' width='1.85' height='1.1' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
+<rect id='connector5pad' connectorname='GND' x='6.65' y='4.58' width='1.85' height='1.1' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
+<rect id='connector6pad' connectorname='NC' x='3.3' y='-8.88178e-16' width='1.9' height='2' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
+<rect id='connector7pad' connectorname='NC@0' x='3.305' y='8.25' width='1.9' height='2' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
+<circle cx='4.265' cy='3.235' r='0.375' stroke='black' stroke-width='0' fill='black' id='nonconn0' />
+<circle cx='4.25' cy='7.03' r='0.525' stroke='black' stroke-width='0' fill='black' id='nonconn1' />
+<g id='copper0'>
+<circle cx='4.265' cy='3.235' r='0.375' stroke='black' stroke-width='0' fill='black' id='nonconn2' />
+<circle cx='4.25' cy='7.03' r='0.525' stroke='black' stroke-width='0' fill='black' id='nonconn3' />
+</g>
+</g>
+<g id='silkscreen'>
+<line class='other' x1='0.59' y1='8.62' x2='0.59' y2='1.62' stroke='#f0f0f0' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='7.885' y1='1.62' x2='7.885' y2='8.62' stroke='#f0f0f0' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='7.885' y1='8.62' x2='0.59' y2='8.62' stroke='#f0f0f0' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='4.255' y1='7.1' x2='6.255' y2='5.1' stroke='#f0f0f0' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='6.255' y1='5.1' x2='4.255' y2='3.1' stroke='#f0f0f0' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='4.255' y1='3.1' x2='2.255' y2='5.1' stroke='#f0f0f0' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='2.255' y1='5.1' x2='4.255' y2='7.1' stroke='#f0f0f0' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='0.59' y1='1.62' x2='3.45' y2='1.62' stroke='#f0f0f0' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='3.45' y1='1.62' x2='4.27' y2='2.44' stroke='#f0f0f0' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='4.27' y1='2.44' x2='5.095' y2='1.615' stroke='#f0f0f0' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='5.095' y1='1.615' x2='7.865' y2='1.615' stroke='#f0f0f0' stroke-width='0.2032' stroke-linecap='round'/>
+</g>
+</svg>

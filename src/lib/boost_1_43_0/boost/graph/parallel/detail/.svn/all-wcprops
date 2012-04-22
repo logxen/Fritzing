@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/parallel/detail
+END
+untracked_pair.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/parallel/detail/untracked_pair.hpp
+END
+inplace_all_to_all.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/parallel/detail/inplace_all_to_all.hpp
+END
+property_holders.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/parallel/detail/property_holders.hpp
+END

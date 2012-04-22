@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4511/trunk/fritzing/part-gen-scripts/obsolete/dilPackageGenerator
+END
+DilPackageGenerator.tmproj
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4511/trunk/fritzing/part-gen-scripts/obsolete/dilPackageGenerator/DilPackageGenerator.tmproj
+END
+defaults.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4511/trunk/fritzing/part-gen-scripts/obsolete/dilPackageGenerator/defaults.cfg
+END
+dilpackage_icon_svg.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4511/trunk/fritzing/part-gen-scripts/obsolete/dilPackageGenerator/dilpackage_icon_svg.tmpl
+END
+generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4511/trunk/fritzing/part-gen-scripts/obsolete/dilPackageGenerator/generator.py
+END
+dilpackage_schematic_svg.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4511/trunk/fritzing/part-gen-scripts/obsolete/dilPackageGenerator/dilpackage_schematic_svg.tmpl
+END
+dilpackage_svg.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4511/trunk/fritzing/part-gen-scripts/obsolete/dilPackageGenerator/dilpackage_svg.tmpl
+END
+dilpackage_fzp.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4511/trunk/fritzing/part-gen-scripts/obsolete/dilPackageGenerator/dilpackage_fzp.tmpl
+END

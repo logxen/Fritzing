@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='1.12851in' height='0.64622in' viewBox='0 0 28.6642 16.414' >
+<g id='schematic'>
+<line class='other' x1='5.1562' y1='14.382' x2='5.1562' y2='6.762' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='5.1562' y1='6.762' x2='17.8562' y2='6.762' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='17.8562' y1='6.762' x2='17.8562' y2='14.382' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='17.8562' y1='14.382' x2='5.1562' y2='14.382' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<text class='text' font-family='OCRA' stroke='none' stroke-width='0' fill='#000000' font-size='1.651' x='5.6642' y='6' text-anchor='start'>&gt;NAME</text>
+<text class='text' font-family='OCRA' stroke='none' stroke-width='0' fill='#000000' font-size='1.651' x='5.6642' y='16.414' text-anchor='start'>&gt;VALUE</text>
+<line class='pin' id='connector0pin' connectorname='RES' x1='0.0762' y1='9.302' x2='5.1562' y2='9.302' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector0terminal' x='0.0762' y='9.302' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector1pin' connectorname='RECEIVE' x1='0.0762' y1='11.842' x2='5.1562' y2='11.842' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector1terminal' x='0.0762' y='11.842' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+</g>
+</svg>

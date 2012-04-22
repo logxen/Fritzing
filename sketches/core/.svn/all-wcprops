@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5889/trunk/fritzing/sketches/core
+END
+Loop.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Loop.fzz
+END
+Optocoupler.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Optocoupler.fzz
+END
+Relay.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Relay.fzz
+END
+RGB-LED.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/RGB-LED.fzz
+END
+ArduinoISP.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/ArduinoISP.fzz
+END
+LED-Matrix_simple.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5810/trunk/fritzing/sketches/core/LED-Matrix_simple.fzz
+END
+VoltageRegulator_7800series.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5810/trunk/fritzing/sketches/core/VoltageRegulator_7800series.fzz
+END
+Countdown.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Countdown.fzz
+END
+Blink-SMD.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Blink-SMD.fzz
+END
+Timer.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5817/trunk/fritzing/sketches/core/Timer.fzz
+END
+Shift_Register.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Shift_Register.fzz
+END
+MidiDrumKit.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/MidiDrumKit.fzz
+END
+TemperaturSensorLM35.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5810/trunk/fritzing/sketches/core/TemperaturSensorLM35.fzz
+END
+Melody.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Melody.fzz
+END
+Photocell.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Photocell.fzz
+END
+Op-amp.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Op-amp.fzz
+END
+Loop-SMD.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Loop-SMD.fzz
+END
+Shift_Register_2x.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Shift_Register_2x.fzz
+END
+VirtualColorMixer.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5810/trunk/fritzing/sketches/core/VirtualColorMixer.fzz
+END
+treeduino.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5785/trunk/fritzing/sketches/core/treeduino.fzz
+END
+Arduino-no-FTDI.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5785/trunk/fritzing/sketches/core/Arduino-no-FTDI.fzz
+END
+npnPowerTransistor.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/npnPowerTransistor.fzz
+END
+Parking-Assistant.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Parking-Assistant.fzz
+END
+Stepper_Motor.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5810/trunk/fritzing/sketches/core/Stepper_Motor.fzz
+END
+AnalogInputThermistor.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5785/trunk/fritzing/sketches/core/AnalogInputThermistor.fzz
+END
+CosmicRayGun.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/CosmicRayGun.fzz
+END
+TouchSwitch.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5785/trunk/fritzing/sketches/core/TouchSwitch.fzz
+END
+Knock.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Knock.fzz
+END
+TrafficLight.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5810/trunk/fritzing/sketches/core/TrafficLight.fzz
+END
+Curvy-Parking-Assistant.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5785/trunk/fritzing/sketches/core/Curvy-Parking-Assistant.fzz
+END
+Button.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5785/trunk/fritzing/sketches/core/Button.fzz
+END
+LiquidCrystalDisplay.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/LiquidCrystalDisplay.fzz
+END
+7Segment_direct.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5841/trunk/fritzing/sketches/core/7Segment_direct.fzz
+END
+Window_Alarm.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5810/trunk/fritzing/sketches/core/Window_Alarm.fzz
+END
+EDGY-motor-control-stepper.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5833/trunk/fritzing/sketches/core/EDGY-motor-control-stepper.fzz
+END
+earthquakeDetection.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5785/trunk/fritzing/sketches/core/earthquakeDetection.fzz
+END
+AnalogInputFSR.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/AnalogInputFSR.fzz
+END
+Button-SMD.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Button-SMD.fzz
+END
+EDGY-motor-control-two-motors.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5833/trunk/fritzing/sketches/core/EDGY-motor-control-two-motors.fzz
+END
+color-fader.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5889/trunk/fritzing/sketches/core/color-fader.fzz
+END
+Barebones Arduino (stripboard).fzz
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5785/trunk/fritzing/sketches/core/Barebones%20Arduino%20(stripboard).fzz
+END
+TiltSwitch.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5810/trunk/fritzing/sketches/core/TiltSwitch.fzz
+END
+Blink.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Blink.fzz
+END
+Sabotage-Detection.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5819/trunk/fritzing/sketches/core/Sabotage-Detection.fzz
+END
+AnalogInputOutput.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5785/trunk/fritzing/sketches/core/AnalogInputOutput.fzz
+END
+VoltageRegulator_with_switch.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5810/trunk/fritzing/sketches/core/VoltageRegulator_with_switch.fzz
+END
+555TouchSwitch.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5785/trunk/fritzing/sketches/core/555TouchSwitch.fzz
+END
+Mood-Light.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/Mood-Light.fzz
+END
+AnalogInputToServo.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5785/trunk/fritzing/sketches/core/AnalogInputToServo.fzz
+END
+AnalogInputPot.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5785/trunk/fritzing/sketches/core/AnalogInputPot.fzz
+END
+EDGY-motor-control.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5833/trunk/fritzing/sketches/core/EDGY-motor-control.fzz
+END
+DC_motor_control.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5809/trunk/fritzing/sketches/core/DC_motor_control.fzz
+END
+LED-Matrix.fzz
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5810/trunk/fritzing/sketches/core/LED-Matrix.fzz
+END

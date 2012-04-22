@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/no_tr1
+END
+cmath.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/no_tr1/cmath.hpp
+END
+functional.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/no_tr1/functional.hpp
+END
+utility.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/no_tr1/utility.hpp
+END
+complex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/no_tr1/complex.hpp
+END
+memory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/no_tr1/memory.hpp
+END

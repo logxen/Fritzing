@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.785441in' height='1.0604in' viewBox='0 0 19.9502 26.9342' >
+<g id='schematic'>
+<line class='other' x1='10.2362' y1='9.078' x2='2.6162' y2='9.078' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='2.6162' y1='9.078' x2='2.6162' y2='24.318' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='2.6162' y1='24.318' x2='10.2362' y2='24.318' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<g transform='translate(7.9502,20)'><g transform='rotate(270)'>
+<text class='text' font-family='OCRA' stroke='none' stroke-width='0' fill='#000000' font-size='3.302' x='0' y='0' text-anchor='start'>USB</text>
+</g></g>
+<line class='pin' id='connector0pin' connectorname='D+' x1='0.0762' y1='16.698' x2='2.6162' y2='16.698' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector0terminal' x='0.0762' y='16.698' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector1pin' connectorname='D-' x1='0.0762' y1='14.158' x2='2.6162' y2='14.158' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector1terminal' x='0.0762' y='14.158' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector2pin' connectorname='VBUS' x1='0.0762' y1='11.618' x2='2.6162' y2='11.618' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector2terminal' x='0.0762' y='11.618' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector3pin' connectorname='GND' x1='0.0762' y1='21.778' x2='2.6162' y2='21.778' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector3terminal' x='0.0762' y='21.778' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector4pin' connectorname='ID' x1='0.0762' y1='19.238' x2='2.6162' y2='19.238' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector4terminal' x='0.0762' y='19.238' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector5pin' connectorname='MTN1' x1='5.1562' y1='6.538' x2='5.1562' y2='9.078' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector5terminal' x='5.1562' y='6.538' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector6pin' connectorname='MTN2' x1='7.6962' y1='6.538' x2='7.6962' y2='9.078' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector6terminal' x='7.6962' y='6.538' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector7pin' connectorname='MTN3' x1='5.1562' y1='26.858' x2='5.1562' y2='24.318' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector7terminal' x='5.1562' y='26.858' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector8pin' connectorname='MTN4' x1='7.6962' y1='26.858' x2='7.6962' y2='24.318' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector8terminal' x='7.6962' y='26.858' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+</g>
+</svg>

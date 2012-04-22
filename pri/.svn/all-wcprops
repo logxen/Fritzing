@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5933/trunk/fritzing/pri
+END
+infoview.pri
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4189/trunk/fritzing/pri/infoview.pri
+END
+autoroute.pri
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5444/trunk/fritzing/pri/autoroute.pri
+END
+help.pri
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5721/trunk/fritzing/pri/help.pri
+END
+navigator.pri
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2846/trunk/fritzing/pri/navigator.pri
+END
+svg.pri
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5721/trunk/fritzing/pri/svg.pri
+END
+partseditor.pri
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5721/trunk/fritzing/pri/partseditor.pri
+END
+model.pri
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3739/trunk/fritzing/pri/model.pri
+END
+utils.pri
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5801/trunk/fritzing/pri/utils.pri
+END
+partsbinpalette.pri
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5721/trunk/fritzing/pri/partsbinpalette.pri
+END
+itemselection.pri
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5721/trunk/fritzing/pri/itemselection.pri
+END
+qtsysteminfo.pri
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4903/trunk/fritzing/pri/qtsysteminfo.pri
+END
+program.pri
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4139/trunk/fritzing/pri/program.pri
+END
+quazip.pri
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5721/trunk/fritzing/pri/quazip.pri
+END
+kitchensink.pri
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5721/trunk/fritzing/pri/kitchensink.pri
+END
+eagle.pri
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5721/trunk/fritzing/pri/eagle.pri
+END
+connectors.pri
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5264/trunk/fritzing/pri/connectors.pri
+END
+referencemodel.pri
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5721/trunk/fritzing/pri/referencemodel.pri
+END
+sketch.pri
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3739/trunk/fritzing/pri/sketch.pri
+END
+translations.pri
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5933/trunk/fritzing/pri/translations.pri
+END
+items.pri
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5857/trunk/fritzing/pri/items.pri
+END
+dialogs.pri
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5881/trunk/fritzing/pri/dialogs.pri
+END
+viewswitcher.pri
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5721/trunk/fritzing/pri/viewswitcher.pri
+END
+version.pri
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5721/trunk/fritzing/pri/version.pri
+END

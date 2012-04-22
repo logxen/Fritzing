@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4423/trunk/fritzing/src/lib/boost_1_43_0/boost/config/stdlib
+END
+vacpp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4423/trunk/fritzing/src/lib/boost_1_43_0/boost/config/stdlib/vacpp.hpp
+END
+msl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4423/trunk/fritzing/src/lib/boost_1_43_0/boost/config/stdlib/msl.hpp
+END
+sgi.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4423/trunk/fritzing/src/lib/boost_1_43_0/boost/config/stdlib/sgi.hpp
+END
+modena.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4423/trunk/fritzing/src/lib/boost_1_43_0/boost/config/stdlib/modena.hpp
+END
+roguewave.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4423/trunk/fritzing/src/lib/boost_1_43_0/boost/config/stdlib/roguewave.hpp
+END
+libcomo.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4423/trunk/fritzing/src/lib/boost_1_43_0/boost/config/stdlib/libcomo.hpp
+END
+dinkumware.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/stdlib/dinkumware.hpp
+END
+libstdcpp3.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4423/trunk/fritzing/src/lib/boost_1_43_0/boost/config/stdlib/libstdcpp3.hpp
+END
+stlport.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4423/trunk/fritzing/src/lib/boost_1_43_0/boost/config/stdlib/stlport.hpp
+END

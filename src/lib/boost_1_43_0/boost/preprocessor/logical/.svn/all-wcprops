@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/logical
+END
+compl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/logical/compl.hpp
+END
+bool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/logical/bool.hpp
+END
+bitnor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/logical/bitnor.hpp
+END
+nor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/logical/nor.hpp
+END
+bitor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/logical/bitor.hpp
+END
+or.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/logical/or.hpp
+END
+not.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/logical/not.hpp
+END
+bitand.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/logical/bitand.hpp
+END
+and.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/logical/and.hpp
+END
+bitxor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/logical/bitxor.hpp
+END
+xor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/logical/xor.hpp
+END

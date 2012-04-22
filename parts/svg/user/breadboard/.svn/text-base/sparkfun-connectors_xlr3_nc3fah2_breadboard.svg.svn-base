@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.763in' height='0.983in' viewBox='0 0 19.3802 24.9682' >
+<g id='breadboard'>
+<path fill='#1F7A34' stroke='none' stroke-width='0' d='M0,0l19.3802,0 0,24.9682 -19.3802,0 0,-24.9682z
+M5.3975,16.3576a0.8001,0.8001 0 1 0 1.6002,0 0.8001,0.8001 0 1 0 -1.6002,0z
+M1.7907,12.5476a0.5969,0.5969 0 1 0 1.1938,0 0.5969,0.5969 0 1 0 -1.1938,0z
+M6.0325,8.7376a0.8001,0.8001 0 1 0 1.6002,0 0.8001,0.8001 0 1 0 -1.6002,0z
+M11.9507,4.2926a0.5969,0.5969 0 1 0 1.1938,0 0.5969,0.5969 0 1 0 -1.1938,0z
+'/>
+<circle id='connector0pin' connectorname='2' cx='6.1976' cy='16.3576' r='0.9271' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector1pin' connectorname='3' cx='2.3876' cy='12.5476' r='0.7239' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector2pin' connectorname='1' cx='6.8326' cy='8.7376' r='0.9271' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector3pin' connectorname='G' cx='12.5476' cy='4.2926' r='0.7239' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle cx='10.6426' cy='16.3576' r='0.8001' stroke='black' stroke-width='0' fill='black' id='nonconn4' />
+<circle cx='15.7226' cy='8.7376' r='0.8001' stroke='black' stroke-width='0' fill='black' id='nonconn5' />
+<line class='other' x1='0.1016' y1='24.8666' x2='19.2786' y2='24.8666' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='19.2786' y1='24.8666' x2='19.2786' y2='0.1016' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='19.2786' y1='0.1016' x2='0.1016' y2='0.1016' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='0.1016' y1='0.1016' x2='0.1016' y2='24.8666' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+</g>
+</svg>

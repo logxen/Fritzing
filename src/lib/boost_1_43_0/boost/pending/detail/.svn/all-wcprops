@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/pending/detail
+END
+disjoint_sets.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/pending/detail/disjoint_sets.hpp
+END
+int_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/pending/detail/int_iterator.hpp
+END
+property.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/pending/detail/property.hpp
+END

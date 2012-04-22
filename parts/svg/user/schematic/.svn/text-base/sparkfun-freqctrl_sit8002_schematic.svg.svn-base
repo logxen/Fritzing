@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='1.48473in' height='0.894331in' viewBox='0 0 37.7122 22.716' >
+<g id='schematic'>
+<line class='other' x1='5.1562' y1='19.922' x2='25.4762' y2='19.922' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='25.4762' y1='19.922' x2='25.4762' y2='9.762' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='25.4762' y1='9.762' x2='5.1562' y2='9.762' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='5.1562' y1='9.762' x2='5.1562' y2='19.922' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<text class='text' font-family='OCRA' stroke='none' stroke-width='0' fill='#000000' font-size='2.3114' x='8.7122' y='9' text-anchor='start'>&gt;VALUE</text>
+<text class='text' font-family='OCRA' stroke='none' stroke-width='0' fill='#000000' font-size='2.3114' x='10.4902' y='22.716' text-anchor='start'>&gt;NAME</text>
+<line class='pin' id='connector0pin' connectorname='/ST-OE' x1='0.0762' y1='14.842' x2='5.1562' y2='14.842' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector0terminal' x='0.0762' y='14.842' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector1pin' connectorname='GND' x1='0.0762' y1='17.382' x2='5.1562' y2='17.382' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector1terminal' x='0.0762' y='17.382' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector2pin' connectorname='OUT' x1='30.5562' y1='14.842' x2='25.4762' y2='14.842' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector2terminal' x='30.5562' y='14.842' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector3pin' connectorname='VDD' x1='0.0762' y1='12.302' x2='5.1562' y2='12.302' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector3terminal' x='0.0762' y='12.302' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+</g>
+</svg>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/utility/detail
+END
+in_place_factory_prefix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/utility/detail/in_place_factory_prefix.hpp
+END
+result_of_iterate.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/utility/detail/result_of_iterate.hpp
+END
+in_place_factory_suffix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/utility/detail/in_place_factory_suffix.hpp
+END

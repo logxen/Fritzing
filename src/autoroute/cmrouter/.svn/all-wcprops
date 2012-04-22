@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5944/trunk/fritzing/src/autoroute/cmrouter
+END
+panelizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5893/trunk/fritzing/src/autoroute/cmrouter/panelizer.h
+END
+cmrouter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5944/trunk/fritzing/src/autoroute/cmrouter/cmrouter.cpp
+END
+tile.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4713/trunk/fritzing/src/autoroute/cmrouter/tile.h
+END
+tileutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5444/trunk/fritzing/src/autoroute/cmrouter/tileutils.h
+END
+search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4657/trunk/fritzing/src/autoroute/cmrouter/search.cpp
+END
+cmrouter.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5721/trunk/fritzing/src/autoroute/cmrouter/cmrouter.h
+END
+DBcell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4756/trunk/fritzing/src/autoroute/cmrouter/DBcell.cpp
+END
+search2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4657/trunk/fritzing/src/autoroute/cmrouter/search2.cpp
+END
+panelizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5937/trunk/fritzing/src/autoroute/cmrouter/panelizer.cpp
+END
+priorityqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5143/trunk/fritzing/src/autoroute/cmrouter/priorityqueue.h
+END
+tile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4713/trunk/fritzing/src/autoroute/cmrouter/tile.cpp
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/smart_ptr
+END
+shared_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/smart_ptr/shared_ptr.hpp
+END
+scoped_array.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/smart_ptr/scoped_array.hpp
+END
+weak_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/smart_ptr/weak_ptr.hpp
+END
+intrusive_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/smart_ptr/intrusive_ptr.hpp
+END
+bad_weak_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/smart_ptr/bad_weak_ptr.hpp
+END
+scoped_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/smart_ptr/scoped_ptr.hpp
+END
+make_shared.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/smart_ptr/make_shared.hpp
+END
+shared_array.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/smart_ptr/shared_array.hpp
+END
+enable_shared_from_this.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/smart_ptr/enable_shared_from_this.hpp
+END
+enable_shared_from_this2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/smart_ptr/enable_shared_from_this2.hpp
+END

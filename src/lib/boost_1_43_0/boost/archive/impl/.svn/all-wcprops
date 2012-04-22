@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl
+END
+xml_woarchive_impl.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/xml_woarchive_impl.ipp
+END
+xml_iarchive_impl.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/xml_iarchive_impl.ipp
+END
+basic_binary_oprimitive.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/basic_binary_oprimitive.ipp
+END
+basic_text_oprimitive.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/basic_text_oprimitive.ipp
+END
+basic_binary_iarchive.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/basic_binary_iarchive.ipp
+END
+basic_text_iarchive.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/basic_text_iarchive.ipp
+END
+xml_oarchive_impl.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/xml_oarchive_impl.ipp
+END
+basic_text_oarchive.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/basic_text_oarchive.ipp
+END
+basic_binary_oarchive.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/basic_binary_oarchive.ipp
+END
+basic_xml_grammar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/basic_xml_grammar.hpp
+END
+text_wiarchive_impl.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/text_wiarchive_impl.ipp
+END
+archive_serializer_map.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/archive_serializer_map.ipp
+END
+basic_xml_iarchive.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/basic_xml_iarchive.ipp
+END
+text_woarchive_impl.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/text_woarchive_impl.ipp
+END
+text_iarchive_impl.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/text_iarchive_impl.ipp
+END
+basic_xml_oarchive.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/basic_xml_oarchive.ipp
+END
+xml_wiarchive_impl.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/xml_wiarchive_impl.ipp
+END
+text_oarchive_impl.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/text_oarchive_impl.ipp
+END
+basic_text_iprimitive.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/basic_text_iprimitive.ipp
+END
+basic_binary_iprimitive.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/impl/basic_binary_iprimitive.ipp
+END

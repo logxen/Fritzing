@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5767/trunk/fritzing/src/help
+END
+sketchmainhelp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5309/trunk/fritzing/src/help/sketchmainhelp.cpp
+END
+helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5765/trunk/fritzing/src/help/helper.cpp
+END
+tipsandtricks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5749/trunk/fritzing/src/help/tipsandtricks.cpp
+END
+aboutbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5767/trunk/fritzing/src/help/aboutbox.cpp
+END
+sketchmainhelp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5309/trunk/fritzing/src/help/sketchmainhelp.h
+END
+helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5765/trunk/fritzing/src/help/helper.h
+END
+tipsandtricks.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4183/trunk/fritzing/src/help/tipsandtricks.h
+END
+aboutbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4193/trunk/fritzing/src/help/aboutbox.h
+END

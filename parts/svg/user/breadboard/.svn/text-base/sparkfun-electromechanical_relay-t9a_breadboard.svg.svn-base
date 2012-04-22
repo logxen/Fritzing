@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='1.08871in' height='1.28871in' viewBox='0 0 27.6533 32.7333' >
+<g id='breadboard'>
+<path fill='#1F7A34' stroke='none' stroke-width='0' d='M0,0l27.6533,0 0,32.7333 -27.6533,0 0,-32.7333z
+M22.7039,3.66663a1.0287,1.0287 0 1 0 2.0574,0 1.0287,1.0287 0 1 0 -2.0574,0z
+M22.7039,11.2866a1.0287,1.0287 0 1 0 2.0574,0 1.0287,1.0287 0 1 0 -2.0574,0z
+M4.92393,13.8266a1.0287,1.0287 0 1 0 2.0574,0 1.0287,1.0287 0 1 0 -2.0574,0z
+M9.21653,26.5266a0.5461,0.5461 0 1 0 1.0922,0 0.5461,0.5461 0 1 0 -1.0922,0z
+M19.3765,26.5266a0.5461,0.5461 0 1 0 1.0922,0 0.5461,0.5461 0 1 0 -1.0922,0z
+'/>
+<circle id='connector0pin' connectorname='NC' cx='23.7326' cy='3.66663' r='1.1557' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector1pin' connectorname='NO' cx='23.7326' cy='11.2866' r='1.1557' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector2pin' connectorname='MAIN' cx='5.95263' cy='13.8266' r='1.1557' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector3pin' connectorname='COIL1' cx='9.76263' cy='26.5266' r='0.6731' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector4pin' connectorname='COIL2' cx='19.9226' cy='26.5266' r='0.6731' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<line class='other' x1='1.12663' y1='0.110626' x2='26.5266' y2='0.110626' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='27.5426' y1='1.12663' x2='27.5426' y2='31.6066' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='26.5266' y1='32.6226' x2='1.12663' y2='32.6226' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='0.110626' y1='31.6066' x2='0.110626' y2='1.12663' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<path class='other' fill='none' d='M0.110626,1.12663 A1.08137,1.08137 0 0 1 1.12663,0.110626' stroke-width='0.2032' stroke='#f8f8f8' />
+<path class='other' fill='none' d='M27.5426,1.12663 A0.898026,0.898026 0 0 0 26.5266,0.110626' stroke-width='0.2032' stroke='#f8f8f8' />
+<path class='other' fill='none' d='M0.110626,31.6066 A0.898026,0.898026 0 0 0 1.12663,32.6226' stroke-width='0.2032' stroke='#f8f8f8' />
+<path class='other' fill='none' d='M26.5266,32.6226 A0.898026,0.898026 0 0 0 27.5426,31.6066' stroke-width='0.2032' stroke='#f8f8f8' />
+</g>
+</svg>

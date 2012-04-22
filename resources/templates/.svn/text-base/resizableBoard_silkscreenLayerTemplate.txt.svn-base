@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="%1mm" height="%2mm" viewBox="0 0 %3 %4">
+<g id="silkscreen">
+<line x1="4" y1="4" x2="%5" y2="4" stroke-width="8" stroke="#FFFFFF" />
+<line x1="%5" y1="4" x2="%5" y2="%6" stroke-width="8" stroke="#FFFFFF" />
+<line x1="%5" y1="%6" x2="4" y2="%6" stroke-width="8" stroke="#FFFFFF" />
+<line x1="4" y1="%6" x2="4" y2="4" stroke-width="8" stroke="#FFFFFF" />
+</g>
+</svg>

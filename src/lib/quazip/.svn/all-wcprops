@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5872/trunk/fritzing/src/lib/quazip
+END
+quazipfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1488/trunk/fritzing/src/lib/quazip/quazipfile.h
+END
+quazip.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1488/trunk/fritzing/src/lib/quazip/quazip.h
+END
+quazipnewinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1488/trunk/fritzing/src/lib/quazip/quazipnewinfo.cpp
+END
+ioapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4616/trunk/fritzing/src/lib/quazip/ioapi.c
+END
+zip.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4616/trunk/fritzing/src/lib/quazip/zip.c
+END
+quazipnewinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1488/trunk/fritzing/src/lib/quazip/quazipnewinfo.h
+END
+unzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4616/trunk/fritzing/src/lib/quazip/unzip.c
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5872/trunk/fritzing/src/lib/quazip/ioapi.h
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1508/trunk/fritzing/src/lib/quazip/crypt.h
+END
+zip.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4616/trunk/fritzing/src/lib/quazip/zip.h
+END
+quazip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1488/trunk/fritzing/src/lib/quazip/quazip.cpp
+END
+quazipfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1488/trunk/fritzing/src/lib/quazip/quazipfile.cpp
+END
+unzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4616/trunk/fritzing/src/lib/quazip/unzip.h
+END
+quazipfileinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1488/trunk/fritzing/src/lib/quazip/quazipfileinfo.h
+END

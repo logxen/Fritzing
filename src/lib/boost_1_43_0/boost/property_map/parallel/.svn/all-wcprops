@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/property_map/parallel
+END
+local_property_map.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/property_map/parallel/local_property_map.hpp
+END
+caching_property_map.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/property_map/parallel/caching_property_map.hpp
+END
+distributed_property_map.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/property_map/parallel/distributed_property_map.hpp
+END
+global_index_map.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/property_map/parallel/global_index_map.hpp
+END

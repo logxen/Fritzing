@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4423/trunk/fritzing/src/lib/boost_1_43_0/boost/config
+END
+requires_threads.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/requires_threads.hpp
+END
+select_compiler_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/select_compiler_config.hpp
+END
+user.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/user.hpp
+END
+abi_suffix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/abi_suffix.hpp
+END
+posix_features.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/posix_features.hpp
+END
+suffix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/suffix.hpp
+END
+select_stdlib_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/select_stdlib_config.hpp
+END
+auto_link.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/auto_link.hpp
+END
+abi_prefix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/abi_prefix.hpp
+END
+select_platform_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/select_platform_config.hpp
+END
+warning_disable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/warning_disable.hpp
+END

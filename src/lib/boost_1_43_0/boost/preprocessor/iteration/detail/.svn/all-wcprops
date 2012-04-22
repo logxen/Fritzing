@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/iteration/detail
+END
+self.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/iteration/detail/self.hpp
+END
+local.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/iteration/detail/local.hpp
+END
+rlocal.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/iteration/detail/rlocal.hpp
+END
+start.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/iteration/detail/start.hpp
+END
+finish.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/preprocessor/iteration/detail/finish.hpp
+END

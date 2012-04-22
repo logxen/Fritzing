@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5976/trunk/fritzing/src/items
+END
+itembase.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5952/trunk/fritzing/src/items/itembase.h
+END
+ruler.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5675/trunk/fritzing/src/items/ruler.h
+END
+pinheader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5957/trunk/fritzing/src/items/pinheader.cpp
+END
+symbolpaletteitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5857/trunk/fritzing/src/items/symbolpaletteitem.cpp
+END
+partfactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5721/trunk/fritzing/src/items/partfactory.h
+END
+partlabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5832/trunk/fritzing/src/items/partlabel.cpp
+END
+mysterypart.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5760/trunk/fritzing/src/items/mysterypart.h
+END
+paletteitembase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5952/trunk/fritzing/src/items/paletteitembase.cpp
+END
+perfboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5929/trunk/fritzing/src/items/perfboard.h
+END
+note.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5857/trunk/fritzing/src/items/note.h
+END
+layerkinpaletteitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5721/trunk/fritzing/src/items/layerkinpaletteitem.cpp
+END
+paletteitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5874/trunk/fritzing/src/items/paletteitem.cpp
+END
+stripboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5308/trunk/fritzing/src/items/stripboard.h
+END
+schematicframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5760/trunk/fritzing/src/items/schematicframe.h
+END
+groundplane.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5675/trunk/fritzing/src/items/groundplane.h
+END
+screwterminal.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5299/trunk/fritzing/src/items/screwterminal.h
+END
+resizableboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5949/trunk/fritzing/src/items/resizableboard.cpp
+END
+ruler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5857/trunk/fritzing/src/items/ruler.cpp
+END
+itembase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5952/trunk/fritzing/src/items/itembase.cpp
+END
+tracewire.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5721/trunk/fritzing/src/items/tracewire.h
+END
+moduleidnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5857/trunk/fritzing/src/items/moduleidnames.h
+END
+clipablewire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5976/trunk/fritzing/src/items/clipablewire.cpp
+END
+mysterypart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5857/trunk/fritzing/src/items/mysterypart.cpp
+END
+note.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5855/trunk/fritzing/src/items/note.cpp
+END
+stripboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5653/trunk/fritzing/src/items/stripboard.cpp
+END
+schematicframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5836/trunk/fritzing/src/items/schematicframe.cpp
+END
+partlabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5723/trunk/fritzing/src/items/partlabel.h
+END
+paletteitembase.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5743/trunk/fritzing/src/items/paletteitembase.h
+END
+screwterminal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5849/trunk/fritzing/src/items/screwterminal.cpp
+END
+layerkinpaletteitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5721/trunk/fritzing/src/items/layerkinpaletteitem.h
+END
+virtualwire.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5721/trunk/fritzing/src/items/virtualwire.h
+END
+via.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5143/trunk/fritzing/src/items/via.h
+END
+tracewire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5721/trunk/fritzing/src/items/tracewire.cpp
+END
+hole.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5944/trunk/fritzing/src/items/hole.h
+END
+resizableboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5949/trunk/fritzing/src/items/resizableboard.h
+END
+led.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5948/trunk/fritzing/src/items/led.cpp
+END
+pad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5869/trunk/fritzing/src/items/pad.cpp
+END
+wire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5895/trunk/fritzing/src/items/wire.cpp
+END
+clipablewire.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5309/trunk/fritzing/src/items/clipablewire.h
+END
+propertydef.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5308/trunk/fritzing/src/items/propertydef.h
+END
+resistor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5970/trunk/fritzing/src/items/resistor.cpp
+END
+capacitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5143/trunk/fritzing/src/items/capacitor.h
+END
+dip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5859/trunk/fritzing/src/items/dip.cpp
+END
+virtualwire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5721/trunk/fritzing/src/items/virtualwire.cpp
+END
+via.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5976/trunk/fritzing/src/items/via.cpp
+END
+logoitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5949/trunk/fritzing/src/items/logoitem.h
+END
+jumperitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5675/trunk/fritzing/src/items/jumperitem.h
+END
+hole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5944/trunk/fritzing/src/items/hole.cpp
+END
+breadboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5143/trunk/fritzing/src/items/breadboard.h
+END
+partfactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5899/trunk/fritzing/src/items/partfactory.cpp
+END
+propertydef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5302/trunk/fritzing/src/items/propertydef.cpp
+END
+perfboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5932/trunk/fritzing/src/items/perfboard.cpp
+END
+pinheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5675/trunk/fritzing/src/items/pinheader.h
+END
+capacitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5308/trunk/fritzing/src/items/capacitor.cpp
+END
+symbolpaletteitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5675/trunk/fritzing/src/items/symbolpaletteitem.h
+END
+led.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5879/trunk/fritzing/src/items/led.h
+END
+pad.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5868/trunk/fritzing/src/items/pad.h
+END
+wire.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5895/trunk/fritzing/src/items/wire.h
+END
+groundplane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5857/trunk/fritzing/src/items/groundplane.cpp
+END
+resistor.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5970/trunk/fritzing/src/items/resistor.h
+END
+logoitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5950/trunk/fritzing/src/items/logoitem.cpp
+END
+dip.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5795/trunk/fritzing/src/items/dip.h
+END
+jumperitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5940/trunk/fritzing/src/items/jumperitem.cpp
+END
+paletteitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5863/trunk/fritzing/src/items/paletteitem.h
+END
+breadboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5143/trunk/fritzing/src/items/breadboard.cpp
+END
+moduleidnames.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5857/trunk/fritzing/src/items/moduleidnames.cpp
+END

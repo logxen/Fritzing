@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5867/trunk/fritzing/src/partseditor
+END
+partspecificationswidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/partspecificationswidget.cpp
+END
+svgdomdocument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3498/trunk/fritzing/src/partseditor/svgdomdocument.cpp
+END
+svgview.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3498/trunk/fritzing/src/partseditor/svgview.h
+END
+partseditorconnectoritem.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/partseditorconnectoritem.h
+END
+partseditorconnectorslayerkinpaletteitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5143/trunk/fritzing/src/partseditor/partseditorconnectorslayerkinpaletteitem.h
+END
+partseditorconnectorspaletteitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4206/trunk/fritzing/src/partseditor/partseditorconnectorspaletteitem.h
+END
+abstracteditablelabelwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/abstracteditablelabelwidget.cpp
+END
+partseditorlayerkinpaletteitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5309/trunk/fritzing/src/partseditor/partseditorlayerkinpaletteitem.h
+END
+partseditormainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5291/trunk/fritzing/src/partseditor/partseditormainwindow.h
+END
+partseditorpaletteitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5302/trunk/fritzing/src/partseditor/partseditorpaletteitem.h
+END
+abstractconnectorinfowidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/abstractconnectorinfowidget.h
+END
+hashpopulatewidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/hashpopulatewidget.h
+END
+partseditorsketchwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2412/trunk/fritzing/src/partseditor/partseditorsketchwidget.cpp
+END
+editablelabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/editablelabel.cpp
+END
+addremovelistwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/addremovelistwidget.h
+END
+singleconnectorinfowidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5666/trunk/fritzing/src/partseditor/singleconnectorinfowidget.cpp
+END
+zoomcontrols.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5309/trunk/fritzing/src/partseditor/zoomcontrols.h
+END
+partconnectorswidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/partconnectorswidget.h
+END
+editabledatewidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/editabledatewidget.h
+END
+editabletextwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/editabletextwidget.cpp
+END
+pcbxml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2085/trunk/fritzing/src/partseditor/pcbxml.cpp
+END
+fixfontsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/fixfontsdialog.h
+END
+partseditorviewswidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5143/trunk/fritzing/src/partseditor/partseditorviewswidget.h
+END
+mismatchingconnectorwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/mismatchingconnectorwidget.h
+END
+partseditorconnectorsconnectoritem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5389/trunk/fritzing/src/partseditor/partseditorconnectorsconnectoritem.cpp
+END
+svgview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3498/trunk/fritzing/src/partseditor/svgview.cpp
+END
+partseditorconnectoritem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/partseditorconnectoritem.cpp
+END
+editablelinewidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/editablelinewidget.h
+END
+partinfowidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3732/trunk/fritzing/src/partseditor/partinfowidget.h
+END
+partseditorconnectorspaletteitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4206/trunk/fritzing/src/partseditor/partseditorconnectorspaletteitem.cpp
+END
+partseditormainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5867/trunk/fritzing/src/partseditor/partseditormainwindow.cpp
+END
+partseditorpaletteitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5427/trunk/fritzing/src/partseditor/partseditorpaletteitem.cpp
+END
+abstractconnectorinfowidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/abstractconnectorinfowidget.cpp
+END
+partseditorview.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5308/trunk/fritzing/src/partseditor/partseditorview.h
+END
+hashpopulatewidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/hashpopulatewidget.cpp
+END
+connectorsinfowidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4270/trunk/fritzing/src/partseditor/connectorsinfowidget.h
+END
+partspecificationswidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/partspecificationswidget.h
+END
+svgdomdocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2085/trunk/fritzing/src/partseditor/svgdomdocument.h
+END
+addremovelistwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/addremovelistwidget.cpp
+END
+abstracteditablelabelwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/abstracteditablelabelwidget.h
+END
+partconnectorswidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/partconnectorswidget.cpp
+END
+zoomcontrols.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5309/trunk/fritzing/src/partseditor/zoomcontrols.cpp
+END
+partseditorsketchwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3732/trunk/fritzing/src/partseditor/partseditorsketchwidget.h
+END
+editabledatewidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/editabledatewidget.cpp
+END
+editablelabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/editablelabel.h
+END
+fixfontsdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/fixfontsdialog.cpp
+END
+singleconnectorinfowidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4270/trunk/fritzing/src/partseditor/singleconnectorinfowidget.h
+END
+partseditorviewswidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5143/trunk/fritzing/src/partseditor/partseditorviewswidget.cpp
+END
+addremoveconnectorbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/addremoveconnectorbutton.h
+END
+mismatchingconnectorwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/mismatchingconnectorwidget.cpp
+END
+connectorinforemovebutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/connectorinforemovebutton.h
+END
+editablelinewidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/editablelinewidget.cpp
+END
+partinfowidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2407/trunk/fritzing/src/partseditor/partinfowidget.cpp
+END
+editabletextwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/editabletextwidget.h
+END
+baseremovebutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4183/trunk/fritzing/src/partseditor/baseremovebutton.h
+END
+pcbxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2085/trunk/fritzing/src/partseditor/pcbxml.h
+END
+partseditorview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5762/trunk/fritzing/src/partseditor/partseditorview.cpp
+END
+partseditorconnectorsconnectoritem.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5309/trunk/fritzing/src/partseditor/partseditorconnectorsconnectoritem.h
+END
+connectorsinfowidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5653/trunk/fritzing/src/partseditor/connectorsinfowidget.cpp
+END

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.406in' height='0.1in' viewBox='0 0 10.3124 2.54' >
+<g id='schematic'>
+<path class='other' fill='none' d='M5.5372,0.635 A0.635,0.635 0 1 1 5.5372,1.905' stroke-width='1.27' stroke='#000000' />
+<path class='other' fill='none' d='M4.7752,1.905 A0.635,0.635 0 1 1 4.7752,0.635' stroke-width='1.27' stroke='#000000' />
+<line class='other' x1='7.6962' y1='1.27' x2='6.8072' y2='1.27' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<line class='other' x1='2.6162' y1='1.27' x2='3.5052' y2='1.27' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<line class='pin' id='connector0pin' connectorname='2' x1='10.2362' y1='1.27' x2='7.6962' y2='1.27' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector0terminal' x='10.2362' y='1.27' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector1pin' connectorname='1' x1='0.0762' y1='1.27' x2='2.6162' y2='1.27' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector1terminal' x='0.0762' y='1.27' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+</g>
+</svg>

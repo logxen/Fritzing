@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail
+END
+access_specifier.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/access_specifier.hpp
+END
+rnd_index_ops.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/rnd_index_ops.hpp
+END
+ord_index_ops.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/ord_index_ops.hpp
+END
+rnd_index_ptr_array.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/rnd_index_ptr_array.hpp
+END
+index_loader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/index_loader.hpp
+END
+is_index_list.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/is_index_list.hpp
+END
+archive_constructed.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/archive_constructed.hpp
+END
+index_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/index_base.hpp
+END
+uintptr_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/uintptr_type.hpp
+END
+duplicates_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/duplicates_iterator.hpp
+END
+converter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/converter.hpp
+END
+index_saver.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/index_saver.hpp
+END
+modify_key_adaptor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/modify_key_adaptor.hpp
+END
+rnd_index_node.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/rnd_index_node.hpp
+END
+hash_index_node.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/hash_index_node.hpp
+END
+value_compare.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/value_compare.hpp
+END
+hash_index_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/hash_index_iterator.hpp
+END
+seq_index_node.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/seq_index_node.hpp
+END
+no_duplicate_tags.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/no_duplicate_tags.hpp
+END
+hash_index_args.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/hash_index_args.hpp
+END
+adl_swap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/adl_swap.hpp
+END
+scope_guard.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/scope_guard.hpp
+END
+seq_index_ops.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/seq_index_ops.hpp
+END
+rnd_index_loader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/rnd_index_loader.hpp
+END
+rnd_node_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/rnd_node_iterator.hpp
+END
+index_node_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/index_node_base.hpp
+END
+has_tag.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/has_tag.hpp
+END
+copy_map.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/copy_map.hpp
+END
+bidir_node_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/bidir_node_iterator.hpp
+END
+index_matcher.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/index_matcher.hpp
+END
+bucket_array.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/bucket_array.hpp
+END
+base_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/base_type.hpp
+END
+invariant_assert.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/invariant_assert.hpp
+END
+iter_adaptor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/iter_adaptor.hpp
+END
+ord_index_node.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/ord_index_node.hpp
+END
+serialization_version.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/serialization_version.hpp
+END
+safe_mode.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/safe_mode.hpp
+END
+unbounded.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/unbounded.hpp
+END
+auto_space.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/auto_space.hpp
+END
+prevent_eti.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/prevent_eti.hpp
+END
+header_holder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/header_holder.hpp
+END
+node_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/node_type.hpp
+END
+ord_index_args.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/ord_index_args.hpp
+END
+safe_ctr_proxy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/safe_ctr_proxy.hpp
+END
+msvc_index_specifier.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/multi_index/detail/msvc_index_specifier.hpp
+END

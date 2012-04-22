@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg version='1.2' baseProfile='tiny' id='svg2' xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg'  x='0in' y='0in' width='0.87in' height='0.295276in' viewBox='0 0 62.641 21.2598'>
+<g id='schematic' >
+
+	<line id="connector0pin" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="0.998" y1="9.723" x2="17.845" y2="9.723"/>
+	<rect id="connector0terminal" x="0" y="8.725" width="0.998" height="1.997"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="46.597,3.034 61.641,9.718 46.597,16.406"/>
+	<line id="line" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="61.022" y1="9.723" x2="16.452" y2="9.723"/>
+</g>
+</svg>

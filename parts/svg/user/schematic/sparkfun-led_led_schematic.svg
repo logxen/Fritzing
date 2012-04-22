@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.196in' height='0.306in' viewBox='0 0 4.9784 7.7724' >
+<g id='schematic'>
+<line class='other' x1='4.8514' y1='2.6162' x2='3.5814' y2='5.1562' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='3.5814' y1='5.1562' x2='2.3114' y2='2.6162' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='4.8514' y1='5.1562' x2='3.5814' y2='5.1562' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='3.5814' y1='5.1562' x2='2.3114' y2='5.1562' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='4.8514' y1='2.6162' x2='3.5814' y2='2.6162' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='3.5814' y1='2.6162' x2='2.3114' y2='2.6162' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='3.5814' y1='2.6162' x2='3.5814' y2='5.1562' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<line class='other' x1='1.5494' y1='3.3782' x2='0.1524' y2='4.7752' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<line class='other' x1='1.6764' y1='4.5212' x2='0.2794' y2='5.9182' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<line class='pin' id='connector0pin' connectorname='C' x1='3.5814' y1='7.6962' x2='3.5814' y2='5.1562' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector0terminal' x='3.5814' y='7.6962' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector1pin' connectorname='A' x1='3.5814' y1='0.0762' x2='3.5814' y2='2.6162' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector1terminal' x='3.5814' y='0.0762' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<path class='other' stroke='none' fill='#000000' stroke-width='0' d='M0.1524,4.7752L0.5334,3.8862L1.0414,4.3942z' stroke-linecap='round'/>
+<path class='other' stroke='none' fill='#000000' stroke-width='0' d='M0.2794,5.9182L0.6604,5.0292L1.1684,5.5372z' stroke-linecap='round'/>
+</g>
+</svg>

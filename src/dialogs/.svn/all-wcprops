@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5933/trunk/fritzing/src/dialogs
+END
+recoverydialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5143/trunk/fritzing/src/dialogs/recoverydialog.cpp
+END
+setcolordialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4183/trunk/fritzing/src/dialogs/setcolordialog.h
+END
+prefsdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5730/trunk/fritzing/src/dialogs/prefsdialog.cpp
+END
+recoverydialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4346/trunk/fritzing/src/dialogs/recoverydialog.h
+END
+prefsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5730/trunk/fritzing/src/dialogs/prefsdialog.h
+END
+groundfillseeddialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5882/trunk/fritzing/src/dialogs/groundfillseeddialog.cpp
+END
+pinlabeldialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5879/trunk/fritzing/src/dialogs/pinlabeldialog.cpp
+END
+translatorlistmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5933/trunk/fritzing/src/dialogs/translatorlistmodel.cpp
+END
+setcolordialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4183/trunk/fritzing/src/dialogs/setcolordialog.cpp
+END
+groundfillseeddialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5882/trunk/fritzing/src/dialogs/groundfillseeddialog.h
+END
+translatorlistmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4183/trunk/fritzing/src/dialogs/translatorlistmodel.h
+END
+pinlabeldialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5879/trunk/fritzing/src/dialogs/pinlabeldialog.h
+END

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.406in' height='0.086in' viewBox='0 0 10.3124 2.1844' >
+<g id='schematic'>
+<line class='other' x1='2.6162' y1='1.0922' x2='2.9972' y2='0.0762' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<line class='other' x1='2.9972' y1='0.0762' x2='3.6322' y2='2.1082' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<line class='other' x1='3.6322' y1='2.1082' x2='4.2672' y2='0.0762' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<line class='other' x1='4.2672' y1='0.0762' x2='4.9022' y2='2.1082' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<line class='other' x1='4.9022' y1='2.1082' x2='5.5372' y2='0.0762' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<line class='other' x1='5.5372' y1='0.0762' x2='6.1722' y2='2.1082' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<line class='other' x1='6.1722' y1='2.1082' x2='6.8072' y2='0.0762' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<line class='other' x1='6.8072' y1='0.0762' x2='7.4422' y2='2.1082' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<line class='other' x1='7.4422' y1='2.1082' x2='7.6962' y2='1.0922' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<line class='pin' id='connector0pin' connectorname='1' x1='0.0762' y1='1.0922' x2='2.6162' y2='1.0922' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector0terminal' x='0.0762' y='1.0922' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector1pin' connectorname='2' x1='10.2362' y1='1.0922' x2='7.6962' y2='1.0922' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector1terminal' x='10.2362' y='1.0922' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+</g>
+</svg>

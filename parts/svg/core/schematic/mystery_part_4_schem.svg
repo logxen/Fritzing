@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:svg='http://www.w3.org/2000/svg' 
+xmlns='http://www.w3.org/2000/svg' 
+version='1.2' baseProfile='tiny' 
+width='1.891in' height='1.505in' viewBox='0 0 1891 1505'>
+<g id='schematic'>
+<rect x='315' y='15' fill='none' width='1566' height='1475' stroke='#000000' stroke-linejoin='round' stroke-linecap='round' stroke-width='30' />
+<text id='label' x='1301.33' y='802.5' fill='#000000' stroke='none' font-family='DroidSans' text-anchor='middle' font-size='255' >?</text>
+<circle fill='#000000' cx='1691' cy='200' r='150' stroke-width='0' />
+<text x='1691' fill='#FFFFFF' y='305' font-family='DroidSans' text-anchor='middle' font-weight='bold' stroke-width='0' font-size='275' >?</text>
+<line fill='none' stroke='#000000' stroke-linejoin='round' stroke-linecap='round' stroke-width='30' x1='15' y1='310' x2='300' y2='310'  />
+<rect x='0' y='295' fill='none' width='300' height='30' id='connector0pin' stroke-width='0' />
+<rect x='0' y='295' fill='none' width='30' height='30' id='connector0terminal' stroke-width='0' />
+<text id='label0' x='390' y='345' font-family='DroidSans' stroke='none' fill='#000000' text-anchor='start' font-size='130' >1</text>
+<line fill='none' stroke='#000000' stroke-linejoin='round' stroke-linecap='round' stroke-width='30' x1='15' y1='605' x2='300' y2='605'  />
+<rect x='0' y='590' fill='none' width='300' height='30' id='connector1pin' stroke-width='0' />
+<rect x='0' y='590' fill='none' width='30' height='30' id='connector1terminal' stroke-width='0' />
+<text id='label1' x='390' y='640' font-family='DroidSans' stroke='none' fill='#000000' text-anchor='start' font-size='130' >2</text>
+<line fill='none' stroke='#000000' stroke-linejoin='round' stroke-linecap='round' stroke-width='30' x1='15' y1='900' x2='300' y2='900'  />
+<rect x='0' y='885' fill='none' width='300' height='30' id='connector2pin' stroke-width='0' />
+<rect x='0' y='885' fill='none' width='30' height='30' id='connector2terminal' stroke-width='0' />
+<text id='label2' x='390' y='935' font-family='DroidSans' stroke='none' fill='#000000' text-anchor='start' font-size='130' >3</text>
+<line fill='none' stroke='#000000' stroke-linejoin='round' stroke-linecap='round' stroke-width='30' x1='15' y1='1195' x2='300' y2='1195'  />
+<rect x='0' y='1180' fill='none' width='300' height='30' id='connector3pin' stroke-width='0' />
+<rect x='0' y='1180' fill='none' width='30' height='30' id='connector3terminal' stroke-width='0' />
+<text id='label3' x='390' y='1230' font-family='DroidSans' stroke='none' fill='#000000' text-anchor='start' font-size='130' >4</text>
+</g>
+</svg>

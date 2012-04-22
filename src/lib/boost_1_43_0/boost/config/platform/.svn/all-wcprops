@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/platform
+END
+linux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/platform/linux.hpp
+END
+macos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/platform/macos.hpp
+END
+win32.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/platform/win32.hpp
+END

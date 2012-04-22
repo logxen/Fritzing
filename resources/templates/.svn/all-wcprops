@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5899/trunk/fritzing/resources/templates
+END
+bom.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4965/trunk/fritzing/resources/templates/bom.html
+END
+generic_male_pin_header_schem_template.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5078/trunk/fritzing/resources/templates/generic_male_pin_header_schem_template.txt
+END
+generic_sip_fzpTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5634/trunk/fritzing/resources/templates/generic_sip_fzpTemplate.txt
+END
+resizableBoard_fzpTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4197/trunk/fritzing/resources/templates/resizableBoard_fzpTemplate.txt
+END
+resizableBoard_silkscreenLayerTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3511/trunk/fritzing/resources/templates/resizableBoard_silkscreenLayerTemplate.txt
+END
+perfboard_boardLayerTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5122/trunk/fritzing/resources/templates/perfboard_boardLayerTemplate.txt
+END
+schematic_frame_template.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5159/trunk/fritzing/resources/templates/schematic_frame_template.txt
+END
+screw_terminal_bread_template.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5299/trunk/fritzing/resources/templates/screw_terminal_bread_template.txt
+END
+perfboard_connectorTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5047/trunk/fritzing/resources/templates/perfboard_connectorTemplate.txt
+END
+mystery_part_dipFzpTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5634/trunk/fritzing/resources/templates/mystery_part_dipFzpTemplate.txt
+END
+generic_rounded_female_pin_header_bread_template.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5079/trunk/fritzing/resources/templates/generic_rounded_female_pin_header_bread_template.txt
+END
+generic_female_pin_header_schem_template.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5078/trunk/fritzing/resources/templates/generic_female_pin_header_schem_template.txt
+END
+generic_sip_connectorFzpTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5004/trunk/fritzing/resources/templates/generic_sip_connectorFzpTemplate.txt
+END
+generic_female_pin_header_fzpTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5899/trunk/fritzing/resources/templates/generic_female_pin_header_fzpTemplate.txt
+END
+perfboard_fzpTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5124/trunk/fritzing/resources/templates/perfboard_fzpTemplate.txt
+END
+generic_sip_bread_template.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5091/trunk/fritzing/resources/templates/generic_sip_bread_template.txt
+END
+generic_male_pin_header_bread_template.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5079/trunk/fritzing/resources/templates/generic_male_pin_header_bread_template.txt
+END
+generic_dip_fzpTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5634/trunk/fritzing/resources/templates/generic_dip_fzpTemplate.txt
+END
+jumper_copper0LayerTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4219/trunk/fritzing/resources/templates/jumper_copper0LayerTemplate.txt
+END
+jumper_jumperwiresLayerTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5747/trunk/fritzing/resources/templates/jumper_jumperwiresLayerTemplate.txt
+END
+resizableBoard_boardLayerTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4566/trunk/fritzing/resources/templates/resizableBoard_boardLayerTemplate.txt
+END
+bom_row.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4965/trunk/fritzing/resources/templates/bom_row.html
+END
+screw_terminal_fzpTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5010/trunk/fritzing/resources/templates/screw_terminal_fzpTemplate.txt
+END
+mystery_part_sipFzpTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5634/trunk/fritzing/resources/templates/mystery_part_sipFzpTemplate.txt
+END
+perfboard_connectorFzpTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4998/trunk/fritzing/resources/templates/perfboard_connectorFzpTemplate.txt
+END
+generic_female_pin_header_bread_template.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5079/trunk/fritzing/resources/templates/generic_female_pin_header_bread_template.txt
+END
+jumper_pcb_svg_template.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5076/trunk/fritzing/resources/templates/jumper_pcb_svg_template.txt
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators
+END
+escape.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/escape.hpp
+END
+xml_unescape_exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/xml_unescape_exception.hpp
+END
+dataflow.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/dataflow.hpp
+END
+base64_exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/base64_exception.hpp
+END
+unescape.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/unescape.hpp
+END
+insert_linebreaks.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/insert_linebreaks.hpp
+END
+mb_from_wchar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/mb_from_wchar.hpp
+END
+wchar_from_mb.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/wchar_from_mb.hpp
+END
+remove_whitespace.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/remove_whitespace.hpp
+END
+head_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/head_iterator.hpp
+END
+transform_width.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/transform_width.hpp
+END
+base64_from_binary.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/base64_from_binary.hpp
+END
+binary_from_base64.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/binary_from_base64.hpp
+END
+istream_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/istream_iterator.hpp
+END
+dataflow_exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/dataflow_exception.hpp
+END
+xml_escape.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/xml_escape.hpp
+END
+ostream_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/ostream_iterator.hpp
+END
+xml_unescape.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/archive/iterators/xml_unescape.hpp
+END

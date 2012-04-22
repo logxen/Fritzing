@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4512/trunk/fritzing/part-gen-scripts/obsolete/fullbreadboardgenerator
+END
+breadboard_fzp.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4512/trunk/fritzing/part-gen-scripts/obsolete/fullbreadboardgenerator/breadboard_fzp.tmpl
+END
+breadboard_svg.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4512/trunk/fritzing/part-gen-scripts/obsolete/fullbreadboardgenerator/breadboard_svg.tmpl
+END
+breadboardGenerator.tmproj
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/4512/trunk/fritzing/part-gen-scripts/obsolete/fullbreadboardgenerator/breadboardGenerator.tmproj
+END
+generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4512/trunk/fritzing/part-gen-scripts/obsolete/fullbreadboardgenerator/generator.py
+END

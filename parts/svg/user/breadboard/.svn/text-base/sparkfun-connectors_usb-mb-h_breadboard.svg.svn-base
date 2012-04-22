@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.273937in' height='0.382205in' viewBox='0 0 6.958 9.708' >
+<g id='breadboard'>
+<path fill='#1F7A34' stroke='none' stroke-width='0' d='M0,0l6.958,0 0,9.708 -6.958,0 0,-9.708z
+M5.904,3.254a0.4,0.4 0 1 0 0.8,0 0.4,0.4 0 1 0 -0.8,0z
+M5.904,4.854a0.4,0.4 0 1 0 0.8,0 0.4,0.4 0 1 0 -0.8,0z
+M5.904,6.454a0.4,0.4 0 1 0 0.8,0 0.4,0.4 0 1 0 -0.8,0z
+M4.704,4.054a0.4,0.4 0 1 0 0.8,0 0.4,0.4 0 1 0 -0.8,0z
+M4.704,5.654a0.4,0.4 0 1 0 0.8,0 0.4,0.4 0 1 0 -0.8,0z
+M0.254,8.504a0.95,0.95 0 1 0 1.9,0 0.95,0.95 0 1 0 -1.9,0z
+M0.254,1.204a0.95,0.95 0 1 0 1.9,0 0.95,0.95 0 1 0 -1.9,0z
+'/>
+<circle id='connector0pin' connectorname='VBUS' cx='6.304' cy='3.254' r='0.527' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector1pin' connectorname='D+' cx='6.304' cy='4.854' r='0.527' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector2pin' connectorname='GND' cx='6.304' cy='6.454' r='0.527' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector3pin' connectorname='D-' cx='5.104' cy='4.054' r='0.527' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector4pin' connectorname='ID' cx='5.104' cy='5.654' r='0.527' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector5pin' connectorname='P$6' cx='1.204' cy='8.504' r='1.077' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector6pin' connectorname='P$7' cx='1.204' cy='1.204' r='1.077' stroke='#9A916C' stroke-width='0.254' fill='none' />
+</g>
+</svg>

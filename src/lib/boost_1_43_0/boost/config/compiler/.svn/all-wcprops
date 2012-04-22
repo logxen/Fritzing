@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/compiler
+END
+gcc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/compiler/gcc.hpp
+END
+gcc_xml.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/compiler/gcc_xml.hpp
+END
+visualc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/config/compiler/visualc.hpp
+END

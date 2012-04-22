@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='2.87954in' height='1.57933in' viewBox='0 0 73.1402 40.115' >
+<g id='schematic'>
+<line class='other' x1='5.1562' y1='9.508' x2='5.1562' y2='39.988' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='5.1562' y1='39.988' x2='25.4762' y2='39.988' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='25.4762' y1='39.988' x2='25.4762' y2='9.508' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<line class='other' x1='25.4762' y1='9.508' x2='5.1562' y2='9.508' stroke='#000000' stroke-width='0.254' stroke-linecap='round'/>
+<text class='text' font-family='OCRA' stroke='none' stroke-width='0' fill='#000000' font-size='2.3114' x='4.1402' y='9' text-anchor='start'>SN74LV4052APWR</text>
+<line class='pin' id='connector0pin' connectorname='2Y0' x1='30.5562' y1='29.828' x2='25.4762' y2='29.828' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector0terminal' x='30.5562' y='29.828' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector1pin' connectorname='2Y2' x1='30.5562' y1='34.908' x2='25.4762' y2='34.908' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector1terminal' x='30.5562' y='34.908' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector2pin' connectorname='2-COM' x1='0.0762' y1='29.828' x2='5.1562' y2='29.828' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector2terminal' x='0.0762' y='29.828' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector3pin' connectorname='2Y3' x1='30.5562' y1='37.448' x2='25.4762' y2='37.448' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector3terminal' x='30.5562' y='37.448' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector4pin' connectorname='2Y1' x1='30.5562' y1='32.368' x2='25.4762' y2='32.368' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector4terminal' x='30.5562' y='32.368' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector5pin' connectorname='INH' x1='30.5562' y1='12.048' x2='25.4762' y2='12.048' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector5terminal' x='30.5562' y='12.048' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector6pin' connectorname='GNG@7' x1='0.0762' y1='34.908' x2='5.1562' y2='34.908' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector6terminal' x='0.0762' y='34.908' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector7pin' connectorname='GND@8' x1='0.0762' y1='37.448' x2='5.1562' y2='37.448' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector7terminal' x='0.0762' y='37.448' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector8pin' connectorname='B' x1='0.0762' y1='19.668' x2='5.1562' y2='19.668' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector8terminal' x='0.0762' y='19.668' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector9pin' connectorname='A' x1='0.0762' y1='17.128' x2='5.1562' y2='17.128' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector9terminal' x='0.0762' y='17.128' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector10pin' connectorname='1Y3' x1='30.5562' y1='24.748' x2='25.4762' y2='24.748' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector10terminal' x='30.5562' y='24.748' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector11pin' connectorname='1Y0' x1='30.5562' y1='17.128' x2='25.4762' y2='17.128' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector11terminal' x='30.5562' y='17.128' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector12pin' connectorname='1-COM' x1='0.0762' y1='24.748' x2='5.1562' y2='24.748' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector12terminal' x='0.0762' y='24.748' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector13pin' connectorname='1Y1' x1='30.5562' y1='19.668' x2='25.4762' y2='19.668' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector13terminal' x='30.5562' y='19.668' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector14pin' connectorname='1Y2' x1='30.5562' y1='22.208' x2='25.4762' y2='22.208' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector14terminal' x='30.5562' y='22.208' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+<line class='pin' id='connector15pin' connectorname='VCC' x1='0.0762' y1='12.048' x2='5.1562' y2='12.048' stroke='#000000' stroke-width='0.1524' stroke-linecap='round'/>
+<rect class='terminal' id='connector15terminal' x='0.0762' y='12.048' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none'/>
+</g>
+</svg>

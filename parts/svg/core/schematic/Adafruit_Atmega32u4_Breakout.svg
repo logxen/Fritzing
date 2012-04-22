@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 15.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg width="885.82672" x="0px" version="1.1" y="0px" xmlns="http://www.w3.org/2000/svg" height="354.33069" viewBox="0 0 708.66112 283.46449" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="svg" xml:space="preserve">
+ <g id="schematic">
+  <metadata id="metadata4712">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+     <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+     <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+     <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+  <defs id="defs4710"/>
+  <sodipodi:namedview showgrid="true" objecttolerance="10" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" pagecolor="#ffffff" units="mm" bordercolor="#666666" id="namedview4708" borderopacity="1" guidetolerance="10" gridtolerance="10">
+   <inkscape:grid empspacing="10" spacingx="1mm" snapvisiblegridlinesonly="true" spacingy="1mm" enabled="true" visible="true" units="mm" type="xygrid" id="grid4736" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"/>
+  </sodipodi:namedview>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-2" y1="226.77159" y2="198.42513" x1="255.118" x2="255.118"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector28pin" y1="226.77158" y2="206.92908" x1="255.11798" x2="255.11798"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70" y1="226.77159" y2="198.42513" x1="141.73218" x2="141.73218"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-74" y1="226.77158" y2="198.42514" x1="113.38573" x2="113.38573"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-4" y1="226.77158" y2="198.42514" x1="85.039299" x2="85.039299"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-30" y1="56.692886" y2="85.039337" x1="510.23605" x2="510.23605"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-9" y1="56.692883" y2="85.039337" x1="481.88962" x2="481.88962"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-56" y1="56.692886" y2="85.039337" x1="453.54315" x2="453.54315"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-06" y1="56.692879" y2="85.039337" x1="425.19672" x2="425.19672"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-3" y1="56.692883" y2="85.039337" x1="396.85025" x2="396.85025"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-1" y1="56.692886" y2="85.039337" x1="368.50381" x2="368.50381"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-214" y1="56.692886" y2="85.039337" x1="340.15735" x2="340.15735"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-21" y1="56.692883" y2="85.039337" x1="311.81091" x2="311.81091"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-05" y1="56.692886" y2="85.039337" x1="283.46445" x2="283.46445"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-2" y1="56.692886" y2="85.039337" x1="255.118" x2="255.118"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-5" y1="56.692883" y2="85.039337" x1="226.77155" x2="226.77155"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-8" y1="56.692883" y2="85.039337" x1="198.42509" x2="198.42509"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-0" y1="56.692883" y2="85.039337" x1="170.07864" x2="170.07864"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-78" y1="56.692883" y2="85.039337" x1="141.73219" x2="141.73219"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-7" y1="56.692886" y2="85.039337" x1="113.38575" x2="113.38575"/>
+  <g id="g4410" transform="translate(104.5259,-19.535959)">
+   <text x="81.479225" y="166.2285" style="font-size:17.97999954px;font-family:DroidSans" id="text4714" font-size="17.98">Adafruit Atmega32u4 Breakout Board</text>
+  </g>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482" y1="56.692886" y2="85.039337" x1="85.039299" x2="85.039299"/>
+  <rect width="651.96838" x="28.346397" y="85.039337" height="113.3858" style="fill:none;stroke:#000000;stroke-width:1.73099697;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect4765"/>
+  <line style="fill:none;stroke:#000000;stroke-opacity:1" id="connector1pin" y1="56.692886" y2="76.5354" x1="113.38575" x2="113.38575"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector2pin" y1="56.692886" y2="76.535393" x1="141.73219" x2="141.73219"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector3pin" y1="56.692886" y2="76.5354" x1="170.07864" x2="170.07864"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector4pin" y1="56.692886" y2="76.5354" x1="198.42509" x2="198.42509"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector5pin" y1="56.692886" y2="76.5354" x1="226.77155" x2="226.77155"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector6pin" y1="56.692886" y2="76.535393" x1="255.118" x2="255.118"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector7pin" y1="56.692886" y2="76.535393" x1="283.46445" x2="283.46445"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector8pin" y1="56.692886" y2="76.5354" x1="311.81091" x2="311.81091"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector9pin" y1="56.692886" y2="76.5354" x1="340.15735" x2="340.15735"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector10pin" y1="56.692886" y2="76.5354" x1="368.50381" x2="368.50381"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector11pin" y1="56.692886" y2="76.5354" x1="396.85025" x2="396.85025"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector12pin" y1="56.692886" y2="76.5354" x1="425.19672" x2="425.19672"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector13pin" y1="56.692886" y2="76.5354" x1="453.54315" x2="453.54315"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector14pin" y1="56.692886" y2="76.5354" x1="481.88962" x2="481.88962"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector15pin" y1="56.692886" y2="76.5354" x1="510.23605" x2="510.23605"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector22pin" y1="226.77158" y2="206.92908" x1="85.039284" x2="85.039284"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector23pin" y1="226.77158" y2="206.92908" x1="113.38575" x2="113.38575"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector24pin" y1="226.77158" y2="206.92908" x1="141.73216" x2="141.73216"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector0pin" y1="56.692886" y2="76.5354" x1="85.039299" x2="85.039299"/>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475" xml:space="preserve">
+   <text x="79.37001" y="100.65108" id="tspan3477">5V</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-7" xml:space="preserve">
+   <text x="110.1261" y="100.5354" id="tspan3477-4">A</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-2" xml:space="preserve">
+   <text x="136.06291" y="100.65108" id="tspan3477-5">F0</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-1" xml:space="preserve">
+   <text x="164.40936" y="100.65108" id="tspan3477-3">F1</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-6" xml:space="preserve">
+   <text x="192.75581" y="100.65108" id="tspan3477-8">F4</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-74" xml:space="preserve">
+   <text x="221.10226" y="100.65108" id="tspan3477-9">F5</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-24" xml:space="preserve">
+   <text x="249.44872" y="100.65108" id="tspan3477-45">F6</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-9" xml:space="preserve">
+   <text x="277.79517" y="100.65108" id="tspan3477-1">F7</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-28" xml:space="preserve">
+   <text x="306.1416" y="100.65108" id="tspan3477-96">C7</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-0" xml:space="preserve">
+   <text x="334.48807" y="100.65108" id="tspan3477-6">C6</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-4" xml:space="preserve">
+   <text x="362.8345" y="100.65108" id="tspan3477-0">B7</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-94" xml:space="preserve">
+   <text x="391.18097" y="100.65108" id="tspan3477-54">B6</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-66" xml:space="preserve">
+   <text x="419.5274" y="100.65108" id="tspan3477-39">B5</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-95" xml:space="preserve">
+   <text x="447.87387" y="100.65108" id="tspan3477-2">B5</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-13" xml:space="preserve">
+   <text x="476.22031" y="100.65108" id="tspan3477-09">GND</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-91" xml:space="preserve">
+   <text x="504.56677" y="100.65108" id="tspan3477-34">VCC</text>
+  </g>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-1" y1="226.77161" y2="198.42514" x1="170.07866" x2="170.07866"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector25pin" y1="226.77159" y2="206.92909" x1="170.07864" x2="170.07864"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-6" y1="226.77161" y2="198.42513" x1="198.42511" x2="198.42511"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector26pin" y1="226.77159" y2="206.92908" x1="198.42509" x2="198.42509"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-3" y1="226.77161" y2="198.42513" x1="226.77156" x2="226.77156"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector27pin" y1="226.77159" y2="206.92908" x1="226.77155" x2="226.77155"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-39" y1="226.77161" y2="198.42514" x1="283.46448" x2="283.46448"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector29pin" y1="226.77159" y2="206.92909" x1="283.46445" x2="283.46445"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-4" y1="226.77159" y2="198.42513" x1="311.81088" x2="311.81088"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector30pin" y1="226.77158" y2="206.92908" x1="311.81088" x2="311.81088"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-41" y1="226.77159" y2="198.42513" x1="340.15735" x2="340.15735"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector31pin" y1="226.77158" y2="206.92908" x1="340.15732" x2="340.15732"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-12" y1="226.77159" y2="198.42513" x1="368.50378" x2="368.50378"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector32pin" y1="226.77158" y2="206.92908" x1="368.50378" x2="368.50378"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-391" y1="226.77159" y2="198.42513" x1="396.85025" x2="396.85025"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector33pin" y1="226.77158" y2="206.92908" x1="396.85022" x2="396.85022"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-8" y1="226.77159" y2="198.42513" x1="425.19669" x2="425.19669"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector34pin" y1="226.77158" y2="206.92908" x1="425.19669" x2="425.19669"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-5" y1="226.77159" y2="198.42513" x1="453.54315" x2="453.54315"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector35pin" y1="226.77158" y2="206.92908" x1="453.54312" x2="453.54312"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-9" y1="226.77159" y2="198.42513" x1="481.88959" x2="481.88959"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector36pin" y1="226.77158" y2="206.92908" x1="481.88956" x2="481.88956"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-63" y1="226.77159" y2="198.42513" x1="510.23602" x2="510.23602"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector37pin" y1="226.77158" y2="206.92908" x1="510.23602" x2="510.23602"/>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-10" xml:space="preserve">
+   <text x="79.369972" y="189.9212" id="tspan3477-41">3V</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-7-1" xml:space="preserve">
+   <text x="107.06646" y="189.9212" id="tspan3477-4-8">E6</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-2-6" xml:space="preserve">
+   <text x="136.06287" y="189.9212" id="tspan3477-5-4">B0</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-1-3" xml:space="preserve">
+   <text x="164.40933" y="189.9212" id="tspan3477-3-4">B1</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-6-7" xml:space="preserve">
+   <text x="192.75577" y="189.9212" id="tspan3477-8-7">B2</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-74-0" xml:space="preserve">
+   <text x="221.10222" y="189.9212" id="tspan3477-9-7">B3</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-24-4" xml:space="preserve">
+   <text x="249.44868" y="189.9212" id="tspan3477-45-5">D0</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-9-3" xml:space="preserve">
+   <text x="277.79517" y="189.9212" id="tspan3477-1-0">D1</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-28-7" xml:space="preserve">
+   <text x="306.1416" y="189.9212" id="tspan3477-96-2">D2</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-0-9" xml:space="preserve">
+   <text x="334.48804" y="189.9212" id="tspan3477-6-9">D3</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-4-3" xml:space="preserve">
+   <text x="362.83447" y="189.9212" id="tspan3477-0-0">D4</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-94-2" xml:space="preserve">
+   <text x="391.18094" y="189.9212" id="tspan3477-54-7">D5</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-66-9" xml:space="preserve">
+   <text x="419.52737" y="189.9212" id="tspan3477-39-9">D6</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-95-5" xml:space="preserve">
+   <text x="447.87384" y="189.9212" id="tspan3477-2-2">D7</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-13-0" xml:space="preserve">
+   <text x="470.55103" y="189.9212" id="tspan3477-09-8">GND</text>
+  </g>
+  <g style="font-size:9.59999752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans" id="text3475-13-0-8" xml:space="preserve">
+   <text x="500.39749" y="189.9212" id="tspan3477-09-8-2">RST</text>
+  </g>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-30-1" y1="56.692886" y2="85.039337" x1="566.92896" x2="566.92896"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector16pin" y1="56.692886" y2="76.535393" x1="566.92896" x2="566.92896"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-30-5" y1="56.692886" y2="85.039337" x1="595.27539" x2="595.27539"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector17pin" y1="56.692886" y2="76.5354" x1="595.27539" x2="595.27539"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-30-59" y1="56.692886" y2="85.039337" x1="623.62189" x2="623.62189"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector18pin" y1="56.692886" y2="76.5354" x1="623.62189" x2="623.62189"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-63-8" y1="226.77159" y2="198.42513" x1="566.92896" x2="566.92896"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector19pin" y1="226.77158" y2="206.92908" x1="566.92896" x2="566.92896"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-63-4" y1="226.77159" y2="198.42513" x1="595.27539" x2="595.27539"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector20pin" y1="226.77158" y2="206.92908" x1="595.27539" x2="595.27539"/>
+  <line style="fill:none;stroke:#000000;stroke-width:2.78977323;stroke-linecap:butt;stroke-linejoin:round" id="line4482-70-63-5" y1="226.77159" y2="198.42513" x1="623.62183" x2="623.62183"/>
+  <line style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-opacity:1" id="connector21pin" y1="226.77158" y2="206.92908" x1="623.62183" x2="623.62183"/>
+  <g style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans" id="text4035" xml:space="preserve" transform="matrix(0.79999983,0,0,0.79999983,-5.25e-5,0)">
+   <text x="741.04791" y="173.31136" style="font-size:19.99999996000000024px;-inkscape-font-specification:DroidSans;font-family:DroidSans" id="tspan4037">ISP</text>
+  </g>
+ </g>
+</svg>

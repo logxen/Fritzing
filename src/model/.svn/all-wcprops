@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5970/trunk/fritzing/src/model
+END
+modelpartshared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5970/trunk/fritzing/src/model/modelpartshared.cpp
+END
+palettemodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5759/trunk/fritzing/src/model/palettemodel.cpp
+END
+modelbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5922/trunk/fritzing/src/model/modelbase.h
+END
+sketchmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5375/trunk/fritzing/src/model/sketchmodel.cpp
+END
+modelpartshared.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5721/trunk/fritzing/src/model/modelpartshared.h
+END
+palettemodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5759/trunk/fritzing/src/model/palettemodel.h
+END
+sketchmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4363/trunk/fritzing/src/model/sketchmodel.h
+END
+modelpart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5945/trunk/fritzing/src/model/modelpart.cpp
+END
+modelbase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5922/trunk/fritzing/src/model/modelbase.cpp
+END
+modelpart.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5945/trunk/fritzing/src/model/modelpart.h
+END

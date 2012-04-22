@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5971/trunk/fritzing/tools/linux_release_script
+END
+release.all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4004/trunk/fritzing/tools/linux_release_script/release.all.sh
+END
+release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5971/trunk/fritzing/tools/linux_release_script/release.sh
+END

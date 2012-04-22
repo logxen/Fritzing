@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5859/trunk/fritzing/resources/parts/svg/core/pcb
+END
+jumper.svg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5420/trunk/fritzing/resources/parts/svg/core/pcb/jumper.svg
+END
+pad.svg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5859/trunk/fritzing/resources/parts/svg/core/pcb/pad.svg
+END
+hole.svg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4301/trunk/fritzing/resources/parts/svg/core/pcb/hole.svg
+END
+rectangle_pcb.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2907/trunk/fritzing/resources/parts/svg/core/pcb/rectangle_pcb.svg
+END
+copper1logo.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4999/trunk/fritzing/resources/parts/svg/core/pcb/copper1logo.svg
+END
+groundplane.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4227/trunk/fritzing/resources/parts/svg/core/pcb/groundplane.svg
+END
+via.svg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4301/trunk/fritzing/resources/parts/svg/core/pcb/via.svg
+END
+logo.svg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3829/trunk/fritzing/resources/parts/svg/core/pcb/logo.svg
+END

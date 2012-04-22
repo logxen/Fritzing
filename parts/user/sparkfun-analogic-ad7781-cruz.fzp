@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module fritzingVersion='0.7.2b' moduleId='SparkFun-AnalogIC-AD7781-CRUZ'>
+<version>4</version>
+<date>2012-04-08</date>
+<label>U</label>
+<author>www.fritzing.org</author>
+<description>20-Bit, Pin-Programmable, Ultralow Power Sigma-Delta ADC</description>
+<title>AD7781</title>
+<tags>
+<tag>CRUZ</tag>
+<tag>AD7781</tag>
+<tag>TSSOP-16</tag>
+</tags>
+<properties>
+<property name='package'>tssop-16</property>
+<property name='family'>ad7781</property>
+<property name='variant'>cruz</property>
+</properties>
+<views>
+<breadboardView>
+<layers image='breadboard/sparkfun-analogic_tssop-16_breadboard.svg'>
+<layer layerId='breadboard'/>
+</layers>
+</breadboardView>
+<schematicView>
+<layers image='schematic/sparkfun-analogic_ad7781_schematic.svg'>
+<layer layerId='schematic'/>
+</layers>
+</schematicView>
+<pcbView>
+<layers image='pcb/sparkfun-analogic_tssop-16_pcb.svg'>
+<layer layerId='copper1'/>
+<layer layerId='silkscreen'/>
+</layers>
+</pcbView>
+<iconView>
+<layers image='breadboard/sparkfun-analogic_tssop-16_breadboard.svg'>
+<layer layerId='icon'/>
+</layers>
+</iconView>
+</views>
+<connectors>
+<connector id='connector13' type='pad' name='*PDRST'>
+<description>*PDRST</description>
+<views>
+<breadboardView>
+<p layer='breadboard' svgId='connector13pad'/>
+</breadboardView>
+<schematicView>
+<p layer='schematic' svgId='connector11pin' terminalId='connector11terminal'/>
+</schematicView>
+<pcbView>
+<p layer='copper1' svgId='connector13pad'/>
+</pcbView>
+</views>
+</connector>
+<connector id='connector5' type='pad' name='AIN+'>
+<description>AIN+</description>
+<views>
+<breadboardView>
+<p layer='breadboard' svgId='connector5pad'/>
+</breadboardView>
+<schematicView>
+<p layer='schematic' svgId='connector3pin' terminalId='connector3terminal'/>
+</schematicView>
+<pcbView>
+<p layer='copper1' svgId='connector5pad'/>
+</pcbView>
+</views>
+</connector>
+<connector id='connector6' type='pad' name='AIN-'>
+<description>AIN-</description>
+<views>
+<breadboardView>
+<p layer='breadboard' svgId='connector6pad'/>
+</breadboardView>
+<schematicView>
+<p layer='schematic' svgId='connector4pin' terminalId='connector4terminal'/>
+</schematicView>
+<pcbView>
+<p layer='copper1' svgId='connector6pad'/>
+</pcbView>
+</views>
+</connector>
+<connector id='connector11' type='pad' name='AVDD'>
+<description>AVDD</description>
+<views>
+<breadboardView>
+<p layer='breadboard' svgId='connector11pad'/>
+</breadboardView>
+<schematicView>
+<p layer='schematic' svgId='connector9pin' terminalId='connector9terminal'/>
+</schematicView>
+<pcbView>
+<p layer='copper1' svgId='connector11pad'/>
+</pcbView>
+</views>
+</connector>
+<connector id='connector9' type='pad' name='BPDSW'>
+<description>BPDSW</description>
+<views>
+<breadboardView>
+<p layer='breadboard' svgId='connector9pad'/>
+</breadboardView>
+<schematicView>
+<p layer='schematic' svgId='connector7pin' terminalId='connector7terminal'/>
+</schematicView>
+<pcbView>
+<p layer='copper1' svgId='connector9pad'/>
+</pcbView>
+</views>
+</connector>
+<connector id='connector2' type='pad' name='DOUT'>
+<description>DOUT</description>
+<views>
+<breadboardView>
+<p layer='breadboard' svgId='connector2pad'/>
+</breadboardView>
+<schematicView>
+<p layer='schematic' svgId='connector1pin' terminalId='connector1terminal'/>
+</schematicView>
+<pcbView>
+<p layer='copper1' svgId='connector2pad'/>
+</pcbView>
+</views>
+</connector>
+<connector id='connector12' type='pad' name='DVDD'>
+<description>DVDD</description>
+<views>
+<breadboardView>
+<p layer='breadboard' svgId='connector12pad'/>
+</breadboardView>
+<schematicView>
+<p layer='schematic' svgId='connector10pin' terminalId='connector10terminal'/>
+</schematicView>
+<pcbView>
+<p layer='copper1' svgId='connector12pad'/>
+</pcbView>
+</views>
+</connector>
+<connector id='connector14' type='pad' name='FILTER'>
+<description>FILTER</description>
+<views>
+<breadboardView>
+<p layer='breadboard' svgId='connector14pad'/>
+</breadboardView>
+<schematicView>
+<p layer='schematic' svgId='connector12pin' terminalId='connector12terminal'/>
+</schematicView>
+<pcbView>
+<p layer='copper1' svgId='connector14pad'/>
+</pcbView>
+</views>
+</connector>
+<connector id='connector4' type='pad' name='GAIN'>
+<description>GAIN</description>
+<views>
+<breadboardView>
+<p layer='breadboard' svgId='connector4pad'/>
+</breadboardView>
+<schematicView>
+<p layer='schematic' svgId='connector2pin' terminalId='connector2terminal'/>
+</schematicView>
+<pcbView>
+<p layer='copper1' svgId='connector4pad'/>
+</pcbView>
+</views>
+</connector>
+<connector id='connector10' type='pad' name='GND'>
+<description>GND</description>
+<views>
+<breadboardView>
+<p layer='breadboard' svgId='connector10pad'/>
+</breadboardView>
+<schematicView>
+<p layer='schematic' svgId='connector8pin' terminalId='connector8terminal'/>
+</schematicView>
+<pcbView>
+<p layer='copper1' svgId='connector10pad'/>
+</pcbView>
+</views>
+</connector>
+<connector id='connector7' type='pad' name='REFIN+'>
+<description>REFIN+</description>
+<views>
+<breadboardView>
+<p layer='breadboard' svgId='connector7pad'/>
+</breadboardView>
+<schematicView>
+<p layer='schematic' svgId='connector5pin' terminalId='connector5terminal'/>
+</schematicView>
+<pcbView>
+<p layer='copper1' svgId='connector7pad'/>
+</pcbView>
+</views>
+</connector>
+<connector id='connector8' type='pad' name='REFIN-'>
+<description>REFIN-</description>
+<views>
+<breadboardView>
+<p layer='breadboard' svgId='connector8pad'/>
+</breadboardView>
+<schematicView>
+<p layer='schematic' svgId='connector6pin' terminalId='connector6terminal'/>
+</schematicView>
+<pcbView>
+<p layer='copper1' svgId='connector8pad'/>
+</pcbView>
+</views>
+</connector>
+<connector id='connector1' type='pad' name='SCLK'>
+<description>SCLK</description>
+<views>
+<breadboardView>
+<p layer='breadboard' svgId='connector1pad'/>
+</breadboardView>
+<schematicView>
+<p layer='schematic' svgId='connector0pin' terminalId='connector0terminal'/>
+</schematicView>
+<pcbView>
+<p layer='copper1' svgId='connector1pad'/>
+</pcbView>
+</views>
+</connector>
+</connectors>
+</module>

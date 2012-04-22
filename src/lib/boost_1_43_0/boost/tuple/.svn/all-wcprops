@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/tuple
+END
+tuple.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/tuple/tuple.hpp
+END
+tuple_io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/tuple/tuple_io.hpp
+END
+tuple_comparison.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/tuple/tuple_comparison.hpp
+END

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.694016in' height='0.857394in' viewBox='0 0 17.628 21.7778' >
+<g id='breadboard'>
+<path fill='#1F7A34' stroke='none' stroke-width='0' d='M0,0l17.628,0 0,21.7778 -17.628,0 0,-21.7778z
+M0.254,14.0589a0.815,0.815 0 1 0 1.63,0 0.815,0.815 0 1 0 -1.63,0z
+M15.744,14.0589a0.815,0.815 0 1 0 1.63,0 0.815,0.815 0 1 0 -1.63,0z
+M9.009,19.7789a0.445,0.445 0 1 0 0.89,0 0.445,0.445 0 1 0 -0.89,0z
+M10.279,17.2389a0.445,0.445 0 1 0 0.89,0 0.445,0.445 0 1 0 -0.89,0z
+M12.819,17.2389a0.445,0.445 0 1 0 0.89,0 0.445,0.445 0 1 0 -0.89,0z
+M7.739,17.2389a0.445,0.445 0 1 0 0.89,0 0.445,0.445 0 1 0 -0.89,0z
+M5.199,17.2389a0.445,0.445 0 1 0 0.89,0 0.445,0.445 0 1 0 -0.89,0z
+M2.659,17.2389a0.445,0.445 0 1 0 0.89,0 0.445,0.445 0 1 0 -0.89,0z
+M11.549,19.7789a0.445,0.445 0 1 0 0.89,0 0.445,0.445 0 1 0 -0.89,0z
+M14.089,19.7789a0.445,0.445 0 1 0 0.89,0 0.445,0.445 0 1 0 -0.89,0z
+M6.469,19.7789a0.445,0.445 0 1 0 0.89,0 0.445,0.445 0 1 0 -0.89,0z
+M3.929,19.7789a0.445,0.445 0 1 0 0.89,0 0.445,0.445 0 1 0 -0.89,0z
+M1.679,6.8089a0.51,0.51 0 1 0 1.02,0 0.51,0.51 0 1 0 -1.02,0z
+M14.929,6.8089a0.51,0.51 0 1 0 1.02,0 0.51,0.51 0 1 0 -1.02,0z
+M12.389,6.8089a0.51,0.51 0 1 0 1.02,0 0.51,0.51 0 1 0 -1.02,0z
+M4.219,6.8089a0.51,0.51 0 1 0 1.02,0 0.51,0.51 0 1 0 -1.02,0z
+'/>
+<circle id='connector0pin' connectorname='GND0' cx='1.069' cy='14.0589' r='0.942' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector1pin' connectorname='GND1' cx='16.559' cy='14.0589' r='0.942' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector2pin' connectorname='5' cx='9.454' cy='19.7789' r='0.572' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector3pin' connectorname='4' cx='10.724' cy='17.2389' r='0.572' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector4pin' connectorname='2' cx='13.264' cy='17.2389' r='0.572' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector5pin' connectorname='6' cx='8.184' cy='17.2389' r='0.572' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector6pin' connectorname='8' cx='5.644' cy='17.2389' r='0.572' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector7pin' connectorname='10' cx='3.104' cy='17.2389' r='0.572' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector8pin' connectorname='3' cx='11.994' cy='19.7789' r='0.572' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector9pin' connectorname='1' cx='14.534' cy='19.7789' r='0.572' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector10pin' connectorname='7' cx='6.914' cy='19.7789' r='0.572' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector11pin' connectorname='9' cx='4.374' cy='19.7789' r='0.572' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector12pin' connectorname='14' cx='2.189' cy='6.8089' r='0.637' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector13pin' connectorname='11' cx='15.439' cy='6.8089' r='0.637' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector14pin' connectorname='12' cx='12.899' cy='6.8089' r='0.637' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector15pin' connectorname='13' cx='4.729' cy='6.8089' r='0.637' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle cx='3.099' cy='11.0089' r='1.625' stroke='black' stroke-width='0' fill='black' id='nonconn4' />
+<circle cx='14.529' cy='11.0089' r='1.625' stroke='black' stroke-width='0' fill='black' id='nonconn5' />
+<line class='other' x1='0.764' y1='12.5889' x2='0.764' y2='0.0889' stroke='#f8f8f8' stroke-width='0.1778' stroke-linecap='round'/>
+<line class='other' x1='0.764' y1='0.0889' x2='16.864' y2='0.0889' stroke='#f8f8f8' stroke-width='0.1778' stroke-linecap='round'/>
+<line class='other' x1='16.864' y1='0.0889' x2='16.864' y2='12.5889' stroke='#f8f8f8' stroke-width='0.1778' stroke-linecap='round'/>
+<line class='other' x1='16.864' y1='21.6889' x2='0.764' y2='21.6889' stroke='#f8f8f8' stroke-width='0.1778' stroke-linecap='round'/>
+<line class='other' x1='0.764' y1='21.6889' x2='0.764' y2='15.5889' stroke='#f8f8f8' stroke-width='0.1778' stroke-linecap='round'/>
+<line class='other' x1='16.864' y1='21.6889' x2='16.864' y2='15.5889' stroke='#f8f8f8' stroke-width='0.1778' stroke-linecap='round'/>
+</g>
+</svg>

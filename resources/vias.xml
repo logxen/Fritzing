@@ -1,0 +1,10 @@
+<vias>
+<via holesize=".038in" ringthickness=".02in" name="Pin Header" />
+<via holesize=".035in" ringthickness=".02in" name="Standard Through-hole" />
+<via holesize=".042in" ringthickness=".02in" name="Big Through-hole" />
+<via holesize=".086in" ringthickness=".02in" name="Mounting Hole" />
+<via holesize=".028in" ringthickness=".02in" name="Fine Lead Parts" />
+<via holesize=".052in" ringthickness=".02in" name="Thick Lead Parts" />
+<via holesize="0.6mm" ringthickness="0.3mm" name="Professionally Printed Via" />
+<via holesize="0.8mm" ringthickness="0.3mm" name="Homebrew Etched Via" default="yes"/>
+</vias>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5451/trunk/fritzing/src/referencemodel
+END
+sqlitereferencemodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5451/trunk/fritzing/src/referencemodel/sqlitereferencemodel.cpp
+END
+referencemodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5143/trunk/fritzing/src/referencemodel/referencemodel.h
+END
+daos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5143/trunk/fritzing/src/referencemodel/daos.cpp
+END
+sqlitereferencemodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5204/trunk/fritzing/src/referencemodel/sqlitereferencemodel.h
+END
+daos.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4183/trunk/fritzing/src/referencemodel/daos.h
+END

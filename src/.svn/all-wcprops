@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5979/trunk/fritzing/src
+END
+installedfonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4183/trunk/fritzing/src/installedfonts.h
+END
+fdockwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4183/trunk/fritzing/src/fdockwidget.h
+END
+routingstatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4542/trunk/fritzing/src/routingstatus.h
+END
+mainwindow_menu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5973/trunk/fritzing/src/mainwindow_menu.cpp
+END
+layerpalette.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4183/trunk/fritzing/src/layerpalette.h
+END
+itemdrag.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5783/trunk/fritzing/src/itemdrag.h
+END
+viewidentifierclass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5721/trunk/fritzing/src/viewidentifierclass.cpp
+END
+fsplashscreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5590/trunk/fritzing/src/fsplashscreen.h
+END
+commands.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5895/trunk/fritzing/src/commands.h
+END
+viewlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5762/trunk/fritzing/src/viewlayer.cpp
+END
+dockmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5931/trunk/fritzing/src/dockmanager.cpp
+END
+debugdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4183/trunk/fritzing/src/debugdialog.h
+END
+fapplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5801/trunk/fritzing/src/fapplication.h
+END
+sketchtoolbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4233/trunk/fritzing/src/sketchtoolbutton.h
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5973/trunk/fritzing/src/mainwindow.h
+END
+layerattributes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5309/trunk/fritzing/src/layerattributes.cpp
+END
+sketchareawidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4233/trunk/fritzing/src/sketchareawidget.h
+END
+fgraphicsscene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5666/trunk/fritzing/src/fgraphicsscene.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5143/trunk/fritzing/src/main.cpp
+END
+fritzingwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5749/trunk/fritzing/src/fritzingwindow.cpp
+END
+waitpushundostack.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4183/trunk/fritzing/src/waitpushundostack.h
+END
+viewgeometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5764/trunk/fritzing/src/viewgeometry.cpp
+END
+processeventblocker.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4542/trunk/fritzing/src/processeventblocker.h
+END
+fdockwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4183/trunk/fritzing/src/fdockwidget.cpp
+END
+layerpalette.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5510/trunk/fritzing/src/layerpalette.cpp
+END
+itemdrag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5783/trunk/fritzing/src/itemdrag.cpp
+END
+fsplashscreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5590/trunk/fritzing/src/fsplashscreen.cpp
+END
+fsvgrenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5948/trunk/fritzing/src/fsvgrenderer.h
+END
+commands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5895/trunk/fritzing/src/commands.cpp
+END
+debugdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5929/trunk/fritzing/src/debugdialog.cpp
+END
+viewidentifierclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4195/trunk/fritzing/src/viewidentifierclass.h
+END
+fapplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5929/trunk/fritzing/src/fapplication.cpp
+END
+sketchtoolbutton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4233/trunk/fritzing/src/sketchtoolbutton.cpp
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5931/trunk/fritzing/src/mainwindow.cpp
+END
+viewlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5762/trunk/fritzing/src/viewlayer.h
+END
+mainwindow_export.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5974/trunk/fritzing/src/mainwindow_export.cpp
+END
+sketchareawidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4233/trunk/fritzing/src/sketchareawidget.cpp
+END
+waitpushundostack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4183/trunk/fritzing/src/waitpushundostack.cpp
+END
+dockmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4183/trunk/fritzing/src/dockmanager.h
+END
+processeventblocker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4542/trunk/fritzing/src/processeventblocker.cpp
+END
+layerattributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5309/trunk/fritzing/src/layerattributes.h
+END
+fgraphicsscene.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5143/trunk/fritzing/src/fgraphicsscene.h
+END
+fritzingwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5749/trunk/fritzing/src/fritzingwindow.h
+END
+viewgeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5730/trunk/fritzing/src/viewgeometry.h
+END
+fsvgrenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5948/trunk/fritzing/src/fsvgrenderer.cpp
+END

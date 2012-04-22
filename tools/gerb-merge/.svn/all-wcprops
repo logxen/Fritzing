@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/COPYING
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/PKG-INFO
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/README
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/setup.cfg
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5974/trunk/fritzing/src/version
+END
+versionchecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4183/trunk/fritzing/src/version/versionchecker.h
+END
+updatedialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5929/trunk/fritzing/src/version/updatedialog.cpp
+END
+version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5974/trunk/fritzing/src/version/version.cpp
+END
+updatedialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4183/trunk/fritzing/src/version/updatedialog.h
+END
+versionchecker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5928/trunk/fritzing/src/version/versionchecker.cpp
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4183/trunk/fritzing/src/version/version.h
+END

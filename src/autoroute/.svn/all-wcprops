@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5944/trunk/fritzing/src/autoroute
+END
+autorouter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5913/trunk/fritzing/src/autoroute/autorouter.h
+END
+autoroutersettingsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5780/trunk/fritzing/src/autoroute/autoroutersettingsdialog.h
+END
+autorouter1.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5721/trunk/fritzing/src/autoroute/autorouter1.h
+END
+autorouteprogressdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5143/trunk/fritzing/src/autoroute/autorouteprogressdialog.h
+END
+eventeater.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5721/trunk/fritzing/src/autoroute/eventeater.cpp
+END
+eventeater.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5721/trunk/fritzing/src/autoroute/eventeater.h
+END
+autorouter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5913/trunk/fritzing/src/autoroute/autorouter.cpp
+END
+autoroutersettingsdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5913/trunk/fritzing/src/autoroute/autoroutersettingsdialog.cpp
+END
+autorouter1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5721/trunk/fritzing/src/autoroute/autorouter1.cpp
+END
+autorouteprogressdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5143/trunk/fritzing/src/autoroute/autorouteprogressdialog.cpp
+END

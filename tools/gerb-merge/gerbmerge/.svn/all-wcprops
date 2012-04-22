@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge
+END
+strokes.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/strokes.py
+END
+geometry.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/geometry.py
+END
+jobs.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/jobs.py
+END
+gerbmerge.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/gerbmerge.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/__init__.py
+END
+amacro.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/amacro.py
+END
+fabdrawing.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/fabdrawing.py
+END
+scoring.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/scoring.py
+END
+tilesearch1.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/tilesearch1.py
+END
+tilesearch2.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/tilesearch2.py
+END
+makestroke.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/makestroke.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/config.py
+END
+schwartz.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/schwartz.py
+END
+parselayout.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/parselayout.py
+END
+aptable.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/aptable.py
+END
+drillcluster.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/drillcluster.py
+END
+placement.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/placement.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/util.py
+END
+tiling.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3713/trunk/fritzing/tools/gerb-merge/gerbmerge/tiling.py
+END

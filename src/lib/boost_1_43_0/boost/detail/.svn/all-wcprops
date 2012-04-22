@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail
+END
+utf8_codecvt_facet.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/utf8_codecvt_facet.hpp
+END
+sp_typeinfo.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/sp_typeinfo.hpp
+END
+call_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/call_traits.hpp
+END
+is_function_ref_tester.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/is_function_ref_tester.hpp
+END
+is_incrementable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/is_incrementable.hpp
+END
+binary_search.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/binary_search.hpp
+END
+allocator_utilities.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/allocator_utilities.hpp
+END
+templated_streams.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/templated_streams.hpp
+END
+select_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/select_type.hpp
+END
+none_t.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/none_t.hpp
+END
+is_xxx.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/is_xxx.hpp
+END
+catch_exceptions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/catch_exceptions.hpp
+END
+atomic_count.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/atomic_count.hpp
+END
+indirect_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/indirect_traits.hpp
+END
+iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/iterator.hpp
+END
+workaround.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/workaround.hpp
+END
+dynamic_bitset.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/dynamic_bitset.hpp
+END
+endian.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/endian.hpp
+END
+ob_compressed_pair.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/ob_compressed_pair.hpp
+END
+lightweight_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/lightweight_mutex.hpp
+END
+limits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/limits.hpp
+END
+interlocked.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/interlocked.hpp
+END
+lightweight_thread.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/lightweight_thread.hpp
+END
+no_exceptions_support.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/no_exceptions_support.hpp
+END
+quick_allocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/quick_allocator.hpp
+END
+scoped_enum_emulation.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/scoped_enum_emulation.hpp
+END
+lightweight_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/lightweight_test.hpp
+END
+compressed_pair.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/compressed_pair.hpp
+END
+ob_call_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/ob_call_traits.hpp
+END
+lcast_precision.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/lcast_precision.hpp
+END
+container_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/container_fwd.hpp
+END
+named_template_params.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/named_template_params.hpp
+END
+identifier.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/identifier.hpp
+END
+has_default_constructor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/has_default_constructor.hpp
+END
+algorithm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/algorithm.hpp
+END
+numeric_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/numeric_traits.hpp
+END
+reference_content.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/detail/reference_content.hpp
+END

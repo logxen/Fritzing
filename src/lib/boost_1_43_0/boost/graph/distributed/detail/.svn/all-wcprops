@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/distributed/detail
+END
+tag_allocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/distributed/detail/tag_allocator.hpp
+END
+mpi_process_group.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/distributed/detail/mpi_process_group.ipp
+END
+filtered_queue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/distributed/detail/filtered_queue.hpp
+END
+dijkstra_shortest_paths.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/distributed/detail/dijkstra_shortest_paths.hpp
+END
+queue.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/distributed/detail/queue.ipp
+END
+remote_update_set.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/distributed/detail/remote_update_set.hpp
+END

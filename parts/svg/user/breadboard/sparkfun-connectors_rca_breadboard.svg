@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.395732in' height='0.417323in' viewBox='0 0 10.0516 10.6' >
+<g id='breadboard'>
+<path fill='#1F7A34' stroke='none' stroke-width='0' d='M0,0l10.0516,0 0,10.6 -10.0516,0 0,-10.6z
+M3,5.3a1.15,1.15 0 1 0 2.3,0 1.15,1.15 0 1 0 -2.3,0z
+M6.7,1.6a1.15,1.15 0 1 0 2.3,0 1.15,1.15 0 1 0 -2.3,0z
+M6.7,9a1.15,1.15 0 1 0 2.3,0 1.15,1.15 0 1 0 -2.3,0z
+'/>
+<circle id='connector0pin' connectorname='BARREL' cx='4.15' cy='5.3' r='1.277' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector1pin' connectorname='BREAK' cx='7.85' cy='1.6' r='1.277' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector2pin' connectorname='SPRING' cx='7.85' cy='9' r='1.277' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle cx='1.05' cy='1.05' r='1.05' stroke='black' stroke-width='0' fill='black' id='nonconn4' />
+<circle cx='1.05' cy='9.55' r='1.05' stroke='black' stroke-width='0' fill='black' id='nonconn5' />
+<line class='other' x1='2.15' y1='0.3' x2='6.15' y2='0.3' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='9.95' y1='0.3' x2='9.95' y2='10.3' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='2.15' y1='10.3' x2='6.15' y2='10.3' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='0.15' y1='2.3' x2='0.15' y2='8.3' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+</g>
+</svg>

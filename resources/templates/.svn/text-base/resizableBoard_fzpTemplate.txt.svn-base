@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="%6" >
+ <version>1.0</version>
+ <author>%1</author>
+ <title>Custom PCB - %4 - %1</title>
+ <date>%5</date>
+ <label>PCB</label>
+ <tags>
+  <tag>pcb</tag>
+  <tag>board</tag>
+  <tag>custom</tag>
+  <tag>diy</tag>
+  <tag>fritzing user</tag>
+ </tags>
+ <properties>
+  <property name="layers">%8</property>
+  <property name="Shape">%4 %2 x %3mm (%1 %5 %7)</property>
+  <property name="family">Plain Vanilla PCB</property>
+ </properties>
+ <taxonomy>discreteParts.pcb.custom.%4.%1</taxonomy>
+ <description>Custom %4 - %1 - %2x%3mm Circuit Board %5 %7</description>
+ <views>
+  <defaultUnits>mm</defaultUnits>
+  <iconView>
+   <layers image="pcb/%6.svg" >
+    <layer layerId="icon" />
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="pcb/%6.svg" >
+    <layer layerId="unknown" />
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="pcb/%6.svg" >
+    <layer layerId="unknown" />
+   </layers>
+  </schematicView>
+  <pcbView>
+   <label/>
+   <layers image="pcb/%6.svg" >
+    <layer layerId="board" sticky="true" />
+    <layer layerId="silkscreen" sticky="true" />
+   </layers>
+  </pcbView>
+ </views>
+ <connectors/>
+ <buses/>
+</module>

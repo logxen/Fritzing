@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5930/trunk/fritzing/src/svg
+END
+svgpathparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3442/trunk/fritzing/src/svg/svgpathparser.h
+END
+kicadschematic2svg.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4357/trunk/fritzing/src/svg/kicadschematic2svg.h
+END
+svgflattener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5771/trunk/fritzing/src/svg/svgflattener.cpp
+END
+svgpathgrammar_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3454/trunk/fritzing/src/svg/svgpathgrammar_p.h
+END
+gedaelementlexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4067/trunk/fritzing/src/svg/gedaelementlexer.cpp
+END
+svgpathrunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4183/trunk/fritzing/src/svg/svgpathrunner.h
+END
+gedaelement2svg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5308/trunk/fritzing/src/svg/gedaelement2svg.cpp
+END
+gerbergenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5930/trunk/fritzing/src/svg/gerbergenerator.cpp
+END
+svg2gerber.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5450/trunk/fritzing/src/svg/svg2gerber.h
+END
+x2svg.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5309/trunk/fritzing/src/svg/x2svg.h
+END
+svgpath.g
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3454/trunk/fritzing/src/svg/svgpath.g
+END
+svgpathlexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4583/trunk/fritzing/src/svg/svgpathlexer.h
+END
+gedaelementgrammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4067/trunk/fritzing/src/svg/gedaelementgrammar.cpp
+END
+kicad2svg.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4353/trunk/fritzing/src/svg/kicad2svg.h
+END
+kicadmodule2svg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5308/trunk/fritzing/src/svg/kicadmodule2svg.cpp
+END
+groundplanegenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5892/trunk/fritzing/src/svg/groundplanegenerator.cpp
+END
+svgfilesplitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5922/trunk/fritzing/src/svg/svgfilesplitter.cpp
+END
+svgpathparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4147/trunk/fritzing/src/svg/svgpathparser.cpp
+END
+gedaelementparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3848/trunk/fritzing/src/svg/gedaelementparser.h
+END
+kicadschematic2svg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5450/trunk/fritzing/src/svg/kicadschematic2svg.cpp
+END
+gedaelementgrammar_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4067/trunk/fritzing/src/svg/gedaelementgrammar_p.h
+END
+svgpathrunner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4183/trunk/fritzing/src/svg/svgpathrunner.cpp
+END
+svg2gerber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5614/trunk/fritzing/src/svg/svg2gerber.cpp
+END
+x2svg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5309/trunk/fritzing/src/svg/x2svg.cpp
+END
+svgflattener.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5308/trunk/fritzing/src/svg/svgflattener.h
+END
+svgpathlexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4583/trunk/fritzing/src/svg/svgpathlexer.cpp
+END
+kicad2svg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4509/trunk/fritzing/src/svg/kicad2svg.cpp
+END
+gedaelement.g
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4067/trunk/fritzing/src/svg/gedaelement.g
+END
+gedaelementlexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4067/trunk/fritzing/src/svg/gedaelementlexer.h
+END
+gedaelement2svg.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5309/trunk/fritzing/src/svg/gedaelement2svg.h
+END
+gerbergenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5879/trunk/fritzing/src/svg/gerbergenerator.h
+END
+svgpathgrammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3454/trunk/fritzing/src/svg/svgpathgrammar.cpp
+END
+gedaelementparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4224/trunk/fritzing/src/svg/gedaelementparser.cpp
+END
+kicadmodule2svg.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5309/trunk/fritzing/src/svg/kicadmodule2svg.h
+END
+groundplanegenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5892/trunk/fritzing/src/svg/groundplanegenerator.h
+END
+svgfilesplitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5721/trunk/fritzing/src/svg/svgfilesplitter.h
+END

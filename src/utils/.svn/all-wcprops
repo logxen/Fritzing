@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5978/trunk/fritzing/src/utils
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5847/trunk/fritzing/src/utils/misc.h
+END
+bundler.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5391/trunk/fritzing/src/utils/bundler.h
+END
+textutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5917/trunk/fritzing/src/utils/textutils.cpp
+END
+focusoutcombobox.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4183/trunk/fritzing/src/utils/focusoutcombobox.h
+END
+fsizegrip.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4183/trunk/fritzing/src/utils/fsizegrip.h
+END
+abstractimagebutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4183/trunk/fritzing/src/utils/abstractimagebutton.h
+END
+flineedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4183/trunk/fritzing/src/utils/flineedit.h
+END
+clickablelabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4183/trunk/fritzing/src/utils/clickablelabel.cpp
+END
+bezierdisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5387/trunk/fritzing/src/utils/bezierdisplay.h
+END
+expandinglabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4407/trunk/fritzing/src/utils/expandinglabel.cpp
+END
+resizehandle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5375/trunk/fritzing/src/utils/resizehandle.cpp
+END
+bezier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5372/trunk/fritzing/src/utils/bezier.cpp
+END
+autoclosemessagebox.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4204/trunk/fritzing/src/utils/autoclosemessagebox.h
+END
+lockmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5806/trunk/fritzing/src/utils/lockmanager.cpp
+END
+familypropertycombobox.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4195/trunk/fritzing/src/utils/familypropertycombobox.h
+END
+bendpointaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4183/trunk/fritzing/src/utils/bendpointaction.h
+END
+graphicsutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5859/trunk/fritzing/src/utils/graphicsutils.h
+END
+graphutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5848/trunk/fritzing/src/utils/graphutils.h
+END
+fileprogressdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5599/trunk/fritzing/src/utils/fileprogressdialog.h
+END
+ratsnestcolors.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5762/trunk/fritzing/src/utils/ratsnestcolors.h
+END
+misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5721/trunk/fritzing/src/utils/misc.cpp
+END
+svgandpartfilepath.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4183/trunk/fritzing/src/utils/svgandpartfilepath.h
+END
+zoomslider.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5309/trunk/fritzing/src/utils/zoomslider.h
+END
+cursormaster.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5742/trunk/fritzing/src/utils/cursormaster.h
+END
+focusoutcombobox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4183/trunk/fritzing/src/utils/focusoutcombobox.cpp
+END
+folderutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5801/trunk/fritzing/src/utils/folderutils.h
+END
+fsizegrip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4183/trunk/fritzing/src/utils/fsizegrip.cpp
+END
+flineedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4183/trunk/fritzing/src/utils/flineedit.cpp
+END
+boundedregexpvalidator.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5309/trunk/fritzing/src/utils/boundedregexpvalidator.h
+END
+bezierdisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5454/trunk/fritzing/src/utils/bezierdisplay.cpp
+END
+textutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5917/trunk/fritzing/src/utils/textutils.h
+END
+autoclosemessagebox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4204/trunk/fritzing/src/utils/autoclosemessagebox.cpp
+END
+clickablelabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4183/trunk/fritzing/src/utils/clickablelabel.h
+END
+bendpointaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4183/trunk/fritzing/src/utils/bendpointaction.cpp
+END
+graphicsutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5859/trunk/fritzing/src/utils/graphicsutils.cpp
+END
+resizehandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5308/trunk/fritzing/src/utils/resizehandle.h
+END
+expandinglabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4406/trunk/fritzing/src/utils/expandinglabel.h
+END
+graphutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5978/trunk/fritzing/src/utils/graphutils.cpp
+END
+fileprogressdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5937/trunk/fritzing/src/utils/fileprogressdialog.cpp
+END
+bezier.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5372/trunk/fritzing/src/utils/bezier.h
+END
+ratsnestcolors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5765/trunk/fritzing/src/utils/ratsnestcolors.cpp
+END
+zoomslider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5309/trunk/fritzing/src/utils/zoomslider.cpp
+END
+lockmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5803/trunk/fritzing/src/utils/lockmanager.h
+END
+abstractstatesbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4183/trunk/fritzing/src/utils/abstractstatesbutton.h
+END
+cursormaster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5742/trunk/fritzing/src/utils/cursormaster.cpp
+END
+folderutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5929/trunk/fritzing/src/utils/folderutils.cpp
+END

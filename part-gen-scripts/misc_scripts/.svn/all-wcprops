@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5629/trunk/fritzing/part-gen-scripts/misc_scripts
+END
+svgNoLayer.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4509/trunk/fritzing/part-gen-scripts/misc_scripts/svgNoLayer.py
+END
+copper1fzp.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4217/trunk/fritzing/part-gen-scripts/misc_scripts/copper1fzp.py
+END
+copper1svg.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4217/trunk/fritzing/part-gen-scripts/misc_scripts/copper1svg.py
+END
+fpgrabber.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4067/trunk/fritzing/part-gen-scripts/misc_scripts/fpgrabber.py
+END
+findfonts.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3891/trunk/fritzing/part-gen-scripts/misc_scripts/findfonts.py
+END
+fzzrenameall.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5629/trunk/fritzing/part-gen-scripts/misc_scripts/fzzrenameall.py
+END
+footprintgrid.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4127/trunk/fritzing/part-gen-scripts/misc_scripts/footprintgrid.py
+END
+multifind.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4087/trunk/fritzing/part-gen-scripts/misc_scripts/multifind.py
+END
+fzpzclean.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5481/trunk/fritzing/part-gen-scripts/misc_scripts/fzpzclean.py
+END
+grep.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3891/trunk/fritzing/part-gen-scripts/misc_scripts/grep.py
+END
+listpropnames.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3891/trunk/fritzing/part-gen-scripts/misc_scripts/listpropnames.py
+END
+fzzrename.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5499/trunk/fritzing/part-gen-scripts/misc_scripts/fzzrename.py
+END
+droid.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3891/trunk/fritzing/part-gen-scripts/misc_scripts/droid.py
+END
+thtsmd.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4891/trunk/fritzing/part-gen-scripts/misc_scripts/thtsmd.py
+END
+checkcopyright.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5144/trunk/fritzing/part-gen-scripts/misc_scripts/checkcopyright.py
+END
+copperNoSilkscreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3891/trunk/fritzing/part-gen-scripts/misc_scripts/copperNoSilkscreen.py
+END
+makepanelizerxml.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5552/trunk/fritzing/part-gen-scripts/misc_scripts/makepanelizerxml.py
+END
+fpgrabber.bat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4067/trunk/fritzing/part-gen-scripts/misc_scripts/fpgrabber.bat
+END
+version4.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4217/trunk/fritzing/part-gen-scripts/misc_scripts/version4.py
+END
+replacedby.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3891/trunk/fritzing/part-gen-scripts/misc_scripts/replacedby.py
+END
+bbhack.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4010/trunk/fritzing/part-gen-scripts/misc_scripts/bbhack.py
+END
+replace.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3891/trunk/fritzing/part-gen-scripts/misc_scripts/replace.py
+END
+tagsmd.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5239/trunk/fritzing/part-gen-scripts/misc_scripts/tagsmd.py
+END
+oldfamily.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3891/trunk/fritzing/part-gen-scripts/misc_scripts/oldfamily.py
+END
+genmoduleidfzphash.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4168/trunk/fritzing/part-gen-scripts/misc_scripts/genmoduleidfzphash.py
+END
+getboardsize.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5257/trunk/fritzing/part-gen-scripts/misc_scripts/getboardsize.py
+END
+findsvgunits.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5245/trunk/fritzing/part-gen-scripts/misc_scripts/findsvgunits.py
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4176/trunk/fritzing/part-gen-scripts/misc_scripts/version.py
+END
+checksvnkywds.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3891/trunk/fritzing/part-gen-scripts/misc_scripts/checksvnkywds.py
+END

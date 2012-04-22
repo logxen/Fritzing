@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.452094in' height='0.663in' viewBox='0 0 11.4832 16.8402' >
+<g id='breadboard'>
+<path fill='#1F7A34' stroke='none' stroke-width='0' d='M0,0l11.4832,0 0,16.8402 -11.4832,0 0,-16.8402z
+M3.3921,3.9116a0.4445,0.4445 0 1 0 0.889,0 0.4445,0.4445 0 1 0 -0.889,0z
+M4.6621,1.3716a0.4445,0.4445 0 1 0 0.889,0 0.4445,0.4445 0 1 0 -0.889,0z
+M5.9321,3.9116a0.4445,0.4445 0 1 0 0.889,0 0.4445,0.4445 0 1 0 -0.889,0z
+M7.2021,1.3716a0.4445,0.4445 0 1 0 0.889,0 0.4445,0.4445 0 1 0 -0.889,0z
+'/>
+<circle id='connector0pin' connectorname='1' cx='3.8366' cy='3.9116' r='0.5715' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector1pin' connectorname='2' cx='5.1066' cy='1.3716' r='0.5715' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector2pin' connectorname='3' cx='6.3766' cy='3.9116' r='0.5715' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector3pin' connectorname='4' cx='7.6466' cy='1.3716' r='0.5715' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle cx='1.9316' cy='10.2616' r='1.6' stroke='black' stroke-width='0' fill='black' id='nonconn4' />
+<circle cx='9.5516' cy='10.2616' r='1.6' stroke='black' stroke-width='0' fill='black' id='nonconn5' />
+<line class='other' x1='11.3816' y1='16.7386' x2='11.3816' y2='0.1016' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='11.3816' y1='0.1016' x2='0.1016' y2='0.1016' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='0.1016' y1='0.1016' x2='0.1016' y2='16.7386' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='11.3816' y1='16.7386' x2='0.1016' y2='16.7386' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+</g>
+</svg>

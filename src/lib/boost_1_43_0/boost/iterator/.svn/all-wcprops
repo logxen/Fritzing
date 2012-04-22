@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator
+END
+interoperable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/interoperable.hpp
+END
+is_lvalue_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/is_lvalue_iterator.hpp
+END
+iterator_categories.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/iterator_categories.hpp
+END
+filter_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/filter_iterator.hpp
+END
+counting_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/counting_iterator.hpp
+END
+is_readable_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/is_readable_iterator.hpp
+END
+iterator_adaptor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/iterator_adaptor.hpp
+END
+indirect_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/indirect_iterator.hpp
+END
+zip_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/zip_iterator.hpp
+END
+iterator_facade.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/iterator_facade.hpp
+END
+iterator_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/iterator_traits.hpp
+END
+permutation_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/permutation_iterator.hpp
+END
+iterator_archetypes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/iterator_archetypes.hpp
+END
+new_iterator_tests.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/new_iterator_tests.hpp
+END
+reverse_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/reverse_iterator.hpp
+END
+transform_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/transform_iterator.hpp
+END
+iterator_concepts.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/iterator/iterator_concepts.hpp
+END

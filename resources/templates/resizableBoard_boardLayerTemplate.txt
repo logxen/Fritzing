@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="%1mm" height="%2mm" viewBox="0 0 %3 %4" >
+<g id="board"> 
+<rect id="boardoutline" stroke-width="8" stroke="#338040" fill="#338040" style="fill-opacity:0.5;stroke-opacity:1" width="%5" height="%6" x="4" y="4" /> 
+</g> 
+</svg>

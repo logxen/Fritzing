@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg version='1.2' baseProfile='tiny' id='svg2' xmlns='http://www.w3.org/2000/svg' 
+width='0.260022in' height='0.27586in' viewBox='0 0 26.0022 27.586'>
+<g id='breadboard'>
+<rect width='26.0022' x='0' y='0' height='24.17675' fill='#000000' id='upper' stroke-width='0' />
+<rect width='26.0022' x='0' y='22' fill='#404040' height='3.096' id='lower' stroke-width='0' />
+<text id='label' x='2.5894' y='13' fill='#e6e6e6' stroke='none' font-family='DroidSans' text-anchor='start' font-size='7.3' >?</text>
+<circle fill='#8C8C8C' cx='21.0022' cy='5' r='3' stroke-width='0' />
+<text x='21.0022' y='6.7' font-family='DroidSans' text-anchor='middle' font-weight='bold' stroke-width='0' font-size='5.5' >?</text>
+<rect id='connector0terminal' stroke='none' stroke-width='0' x='1.87' y='25.586' fill='#8C8C8C' width='2.3' height='2.0'/>
+<rect id='connector0pin' stroke='none' stroke-width='0' x='1.87' y='23.336' fill='#8C8C8C' width='2.3' height='4.25'/>
+<rect id='connector1terminal' stroke='none' stroke-width='0' x='11.87' y='25.586' fill='#8C8C8C' width='2.3' height='2.0'/>
+<rect id='connector1pin' stroke='none' stroke-width='0' x='11.87' y='23.336' fill='#8C8C8C' width='2.3' height='4.25'/>
+<rect id='connector2terminal' stroke='none' stroke-width='0' x='21.87' y='25.586' fill='#8C8C8C' width='2.3' height='2.0'/>
+<rect id='connector2pin' stroke='none' stroke-width='0' x='21.87' y='23.336' fill='#8C8C8C' width='2.3' height='4.25'/>
+
+</g>
+</svg>

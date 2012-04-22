@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="22.426px" height="30.349px" viewBox="0 0 22.426 30.349" enable-background="new 0 0 22.426 30.349" xml:space="preserve">
+<g id="svg2" xmlns:svg="http://www.w3.org/2000/svg">
+  <rect id="background" x="0" y="0" width="25.426" height="30.349" fill="#F3F3F3" stroke="none" />
+
+	<path id="connector0pin" fill="none" stroke="#000000" stroke-width="2.4" d="M11.214,21.26V0"/>
+	<rect id="connector0terminal" x="10.74" fill="none" width="0.945" height="0.953"/>
+	<g id="schematic">
+		<path id="path4098" fill="none" stroke="#000000" stroke-width="2.4" d="M0,21.26h22.426"/>
+		<path id="path4100" fill="none" stroke="#000000" stroke-width="2.4" d="M3.736,25.205h14.952"/>
+		<path id="path4102" fill="none" stroke="#000000" stroke-width="2.4" d="M14.945,29.148H7.476"/>
+	</g>
+</g>
+<g id="Ebene_2">
+</g>
+</svg>

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src
+END
+lalr.g
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/lalr.g
+END
+cppgenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/cppgenerator.h
+END
+lalr.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/lalr.h
+END
+compress.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/compress.h
+END
+src.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/src.pro
+END
+recognizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/recognizer.cpp
+END
+dotgraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/dotgraph.cpp
+END
+grammar_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/grammar_p.h
+END
+recognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/recognizer.h
+END
+dotgraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/dotgraph.h
+END
+parsetable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/parsetable.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/main.cpp
+END
+grammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/grammar.cpp
+END
+parsetable.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/parsetable.h
+END
+cppgenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/cppgenerator.cpp
+END
+lalr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/lalr.cpp
+END
+compress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/src/compress.cpp
+END

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='1.24642in' height='0.489528in' viewBox='0 0 31.659 12.434' >
+<g id='breadboard'>
+<path fill='#1F7A34' stroke='none' stroke-width='0' d='M0,0l31.659,0 0,12.434 -31.659,0 0,-12.434z
+M0.254,11.08a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M4.204,11.08a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M8.154,11.08a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M12.104,11.08a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M16.054,11.08a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M20.004,11.08a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M23.954,11.08a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M27.904,11.08a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M0.254,2.68a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M4.204,2.68a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M8.154,2.68a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M12.104,2.68a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M16.054,2.68a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M20.004,2.68a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M23.954,2.68a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+M27.904,2.68a1.1,1.1 0 1 0 2.2,0 1.1,1.1 0 1 0 -2.2,0z
+'/>
+<circle id='connector0pin' connectorname='8' cx='1.354' cy='11.08' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector1pin' connectorname='7' cx='5.304' cy='11.08' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector2pin' connectorname='6' cx='9.254' cy='11.08' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector3pin' connectorname='5' cx='13.204' cy='11.08' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector4pin' connectorname='4' cx='17.154' cy='11.08' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector5pin' connectorname='3' cx='21.104' cy='11.08' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector6pin' connectorname='2' cx='25.054' cy='11.08' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector7pin' connectorname='1' cx='29.004' cy='11.08' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector8pin' connectorname='16' cx='1.354' cy='2.68' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector9pin' connectorname='15' cx='5.304' cy='2.68' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector10pin' connectorname='14' cx='9.254' cy='2.68' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector11pin' connectorname='13' cx='13.204' cy='2.68' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector12pin' connectorname='12' cx='17.154' cy='2.68' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector13pin' connectorname='11' cx='21.104' cy='2.68' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector14pin' connectorname='10' cx='25.054' cy='2.68' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<circle id='connector15pin' connectorname='9' cx='29.004' cy='2.68' r='1.227' stroke='#9A916C' stroke-width='0.254' fill='none' />
+<text class='text' font-family='OCRA' stroke='none' stroke-width='0' fill='#f8f8f8' font-size='1.651' x='28.659' y='9.175' text-anchor='start'>1</text>
+<text class='text' font-family='OCRA' stroke='none' stroke-width='0' fill='#f8f8f8' font-size='1.651' x='0.084' y='6' text-anchor='start'>16</text>
+</g>
+</svg>

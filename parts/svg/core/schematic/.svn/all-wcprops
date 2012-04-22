@@ -1,0 +1,2027 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5947/trunk/fritzing/parts/svg/core/schematic
+END
+ldr.svg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/ldr.svg
+END
+STM32F103_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5870/trunk/fritzing/parts/svg/core/schematic/STM32F103_schematic.svg
+END
+ATmega644c3.svg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5524/trunk/fritzing/parts/svg/core/schematic/ATmega644c3.svg
+END
+xbee.svg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3813/trunk/fritzing/parts/svg/core/schematic/xbee.svg
+END
+AlphaNumericDisplay-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/AlphaNumericDisplay-v13_schematic.svg
+END
+7segment_56,9_an.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5426/trunk/fritzing/parts/svg/core/schematic/7segment_56,9_an.svg
+END
+HCF_406703c.svg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5514/trunk/fritzing/parts/svg/core/schematic/HCF_406703c.svg
+END
+FTDI Basic-v13_3.3v_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5622/trunk/fritzing/parts/svg/core/schematic/FTDI%20Basic-v13_3.3v_schematic.svg
+END
+LiPo-USB-Charger-v21_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/LiPo-USB-Charger-v21_schematic.svg
+END
+PICAXE_18X_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/PICAXE_18X_schematic.svg
+END
+PICAXE_28X_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/PICAXE_28X_schematic.svg
+END
+fet_n.svg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/fet_n.svg
+END
+6DOF-Digital-v10_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5763/trunk/fritzing/parts/svg/core/schematic/6DOF-Digital-v10_schematic.svg
+END
+Joystick-Breakout-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/Joystick-Breakout-v11_schematic.svg
+END
+thermistor.svg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2103/trunk/fritzing/parts/svg/core/schematic/thermistor.svg
+END
+Arduino_LilyPad7f6.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/Arduino_LilyPad7f6.svg
+END
+Optocoupler_TLP621_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5733/trunk/fritzing/parts/svg/core/schematic/Optocoupler_TLP621_schematic.svg
+END
+microphone.svg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/microphone.svg
+END
+SSOP20_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/SSOP20_schematic.svg
+END
+infrared proximity sensor.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/infrared%20proximity%20sensor.svg
+END
+7segment_13_an.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5426/trunk/fritzing/parts/svg/core/schematic/7segment_13_an.svg
+END
+RGB_matrix_v25_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/RGB_matrix_v25_schematic.svg
+END
+Proto_shield_REV3_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5907/trunk/fritzing/parts/svg/core/schematic/Proto_shield_REV3_schematic.svg
+END
+LQFP-48_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/LQFP-48_schematic.svg
+END
+solenoid.svg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/solenoid.svg
+END
+Trackballer-v12_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/Trackballer-v12_schematic.svg
+END
+atmega168_32pol.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/atmega168_32pol.svg
+END
+quadstep-v12_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5198/trunk/fritzing/parts/svg/core/schematic/quadstep-v12_schematic.svg
+END
+diode_schottky.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4504/trunk/fritzing/parts/svg/core/schematic/diode_schottky.svg
+END
+25LC512_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/25LC512_schematic.svg
+END
+24LC128_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/24LC128_schematic.svg
+END
+XBee-Regulated-v12_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/XBee-Regulated-v12_schematic.svg
+END
+atmega_schematic_8e4b4f3e54f56b3f712afc6a8e6a8a71328.svg
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5900/trunk/fritzing/parts/svg/core/schematic/atmega_schematic_8e4b4f3e54f56b3f712afc6a8e6a8a71328.svg
+END
+Rotoshield-1.0a_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5628/trunk/fritzing/parts/svg/core/schematic/Rotoshield-1.0a_schematic.svg
+END
+FRM050_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/FRM050_schematic.svg
+END
+QFN-36_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/QFN-36_schematic.svg
+END
+DS1302_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/DS1302_schematic.svg
+END
+ULN2803A_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/ULN2803A_schematic.svg
+END
+gs1011_breakout-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5567/trunk/fritzing/parts/svg/core/schematic/gs1011_breakout-v11_schematic.svg
+END
+lm34_schem.svg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5407/trunk/fritzing/parts/svg/core/schematic/lm34_schem.svg
+END
+Level-Converter-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/Level-Converter-v11_schematic.svg
+END
+SO18W_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/SO18W_schematic.svg
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4755/trunk/fritzing/parts/svg/core/schematic/LICENSE.txt
+END
+11LC040_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/11LC040_schematic.svg
+END
+optocoupler4n35_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/optocoupler4n35_schematic.svg
+END
+LED_Prolight_RGB.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5437/trunk/fritzing/parts/svg/core/schematic/LED_Prolight_RGB.svg
+END
+controller_arduino_mini_usb_adapter_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/controller_arduino_mini_usb_adapter_schematic.svg
+END
+25LC040_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/25LC040_schematic.svg
+END
+Breadboard Power Supply - SMD v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5622/trunk/fritzing/parts/svg/core/schematic/Breadboard%20Power%20Supply%20-%20SMD%20v13_schematic.svg
+END
+BASIC_Stamp_2e.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/BASIC_Stamp_2e.svg
+END
+PowerIR-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5567/trunk/fritzing/parts/svg/core/schematic/PowerIR-v11_schematic.svg
+END
+Battery_block_9V82.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/Battery_block_9V82.svg
+END
+7segment_9,9_cat.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5426/trunk/fritzing/parts/svg/core/schematic/7segment_9,9_cat.svg
+END
+SO-28W_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/SO-28W_schematic.svg
+END
+microSD_Shield-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5206/trunk/fritzing/parts/svg/core/schematic/microSD_Shield-v13_schematic.svg
+END
+25LC640_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/25LC640_schematic.svg
+END
+EDGY_Analog_In_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5860/trunk/fritzing/parts/svg/core/schematic/EDGY_Analog_In_schematic.svg
+END
+24LC256_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/24LC256_schematic.svg
+END
+antenna.svg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/antenna.svg
+END
+basic_transistor_npn.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/basic_transistor_npn.svg
+END
+LilyPad-Temp-v12_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/LilyPad-Temp-v12_schematic.svg
+END
+tmp36_schem.svg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5378/trunk/fritzing/parts/svg/core/schematic/tmp36_schem.svg
+END
+Humidity_Sensor_SHT15_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5916/trunk/fritzing/parts/svg/core/schematic/Humidity_Sensor_SHT15_schematic.svg
+END
+QFN-64_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/QFN-64_schematic.svg
+END
+Dual_VNH2SP30_Motor_Driver_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5851/trunk/fritzing/parts/svg/core/schematic/Dual_VNH2SP30_Motor_Driver_schematic.svg
+END
+Wiring_Sa99.svg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5559/trunk/fritzing/parts/svg/core/schematic/Wiring_Sa99.svg
+END
+DeadOn RTC - DS3234 Breakout-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/DeadOn%20RTC%20-%20DS3234%20Breakout-v11_schematic.svg
+END
+mega2560_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5542/trunk/fritzing/parts/svg/core/schematic/mega2560_schematic.svg
+END
+Stepper_Motor_-_Unipolar__schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3579/trunk/fritzing/parts/svg/core/schematic/Stepper_Motor_-_Unipolar__schematic.svg
+END
+DB25M.svg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5524/trunk/fritzing/parts/svg/core/schematic/DB25M.svg
+END
+SO08_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5034/trunk/fritzing/parts/svg/core/schematic/SO08_schematic.svg
+END
+generic_sip_1_300mil_schem.svg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3575/trunk/fritzing/parts/svg/core/schematic/generic_sip_1_300mil_schem.svg
+END
+pushbutton.svg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/pushbutton.svg
+END
+ProtoShield-Mini-v12_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5206/trunk/fritzing/parts/svg/core/schematic/ProtoShield-Mini-v12_schematic.svg
+END
+FTDI Basic-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/FTDI%20Basic-v13_schematic.svg
+END
+controller_wiringmini.svg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/controller_wiringmini.svg
+END
+HMC6352-v18_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/HMC6352-v18_schematic.svg
+END
+diode.svg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4504/trunk/fritzing/parts/svg/core/schematic/diode.svg
+END
+Gas_Sensor_Breakout-v12_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/Gas_Sensor_Breakout-v12_schematic.svg
+END
+rfid_reader_id12.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3628/trunk/fritzing/parts/svg/core/schematic/rfid_reader_id12.svg
+END
+led-rgb-6pin.svg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/led-rgb-6pin.svg
+END
+Mega_Shield-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5206/trunk/fritzing/parts/svg/core/schematic/Mega_Shield-v13_schematic.svg
+END
+lm358_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3579/trunk/fritzing/parts/svg/core/schematic/lm358_schematic.svg
+END
+Humidity_and_Temperature_Sensor_RHT03_6.svg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5887/trunk/fritzing/parts/svg/core/schematic/Humidity_and_Temperature_Sensor_RHT03_6.svg
+END
+BASIC_Stamp_2p40.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/BASIC_Stamp_2p40.svg
+END
+Teensy_2.0_++_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/Teensy_2.0_++_schematic.svg
+END
+Barometric_Pressure_Sensor__2eaec138e035.svg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4475/trunk/fritzing/parts/svg/core/schematic/Barometric_Pressure_Sensor__2eaec138e035.svg
+END
+7segment_20,32_cat.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5421/trunk/fritzing/parts/svg/core/schematic/7segment_20,32_cat.svg
+END
+11LC020_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/11LC020_schematic.svg
+END
+TMP102_Breakout-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/TMP102_Breakout-v11_schematic.svg
+END
+BASIC_Stamp_2.svg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/BASIC_Stamp_2.svg
+END
+25LC020_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/25LC020_schematic.svg
+END
+controller_mbed.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4507/trunk/fritzing/parts/svg/core/schematic/controller_mbed.svg
+END
+25LC320_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/25LC320_schematic.svg
+END
+controller_wiring_usb_adapter.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/controller_wiring_usb_adapter.svg
+END
+25LC128_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/25LC128_schematic.svg
+END
+crystal.svg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/crystal.svg
+END
+ad5330 breakout-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/ad5330%20breakout-v11_schematic.svg
+END
+cellular shield-v12_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5077/trunk/fritzing/parts/svg/core/schematic/cellular%20shield-v12_schematic.svg
+END
+OpenLog_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5812/trunk/fritzing/parts/svg/core/schematic/OpenLog_schematic.svg
+END
+BASIC_Stamp_2px24.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/BASIC_Stamp_2px24.svg
+END
+pushbutton4lead.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5212/trunk/fritzing/parts/svg/core/schematic/pushbutton4lead.svg
+END
+Modkit Shield-v1a_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5146/trunk/fritzing/parts/svg/core/schematic/Modkit%20Shield-v1a_schematic.svg
+END
+stereo-jack-3_5mm.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/stereo-jack-3_5mm.svg
+END
+diode_zener.svg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4504/trunk/fritzing/parts/svg/core/schematic/diode_zener.svg
+END
+24LC04_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/24LC04_schematic.svg
+END
+Power Screwshield 1.0a_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5628/trunk/fritzing/parts/svg/core/schematic/Power%20Screwshield%201.0a_schematic.svg
+END
+7-segment display.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/7-segment%20display.svg
+END
+25LC1024_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/25LC1024_schematic.svg
+END
+11LC010_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/11LC010_schematic.svg
+END
+OBD-II-UART-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5077/trunk/fritzing/parts/svg/core/schematic/OBD-II-UART-v13_schematic.svg
+END
+usb_connector.svg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4265/trunk/fritzing/parts/svg/core/schematic/usb_connector.svg
+END
+25LC010_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/25LC010_schematic.svg
+END
+LilyPad-XBee-v15_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/LilyPad-XBee-v15_schematic.svg
+END
+LilyPad Coincell-Battery-v17_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/LilyPad%20Coincell-Battery-v17_schematic.svg
+END
+Lilypad_PowerSupply-v16_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/Lilypad_PowerSupply-v16_schematic.svg
+END
+25LC256_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/25LC256_schematic.svg
+END
+FRM010_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/FRM010_schematic.svg
+END
+10x2-Epaper-Breakout-Board-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/10x2-Epaper-Breakout-Board-v11_schematic.svg
+END
+24LC32_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/24LC32_schematic.svg
+END
+led-rgb-4pin-cathode.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5024/trunk/fritzing/parts/svg/core/schematic/led-rgb-4pin-cathode.svg
+END
+controller_pico.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/controller_pico.svg
+END
+SN74LS14N_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/SN74LS14N_schematic.svg
+END
+7segment_56,9_cat.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5426/trunk/fritzing/parts/svg/core/schematic/7segment_56,9_cat.svg
+END
+PowerSupply-Lipo-v14_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5077/trunk/fritzing/parts/svg/core/schematic/PowerSupply-Lipo-v14_schematic.svg
+END
+mystery_part_4_schem.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5729/trunk/fritzing/parts/svg/core/schematic/mystery_part_4_schem.svg
+END
+capacitor_variable_3_legs.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5826/trunk/fritzing/parts/svg/core/schematic/capacitor_variable_3_legs.svg
+END
+IR_Receiver_v14_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/IR_Receiver_v14_schematic.svg
+END
+Si470x-Eval-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/Si470x-Eval-v11_schematic.svg
+END
+SO16_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/SO16_schematic.svg
+END
+led-rgb-4pin-anode.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/led-rgb-4pin-anode.svg
+END
+SO-24W_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/SO-24W_schematic.svg
+END
+LSM303 breakout board-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/LSM303%20breakout%20board-v11_schematic.svg
+END
+SSOP16_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/SSOP16_schematic.svg
+END
+Color_Sensor_Breakout_ADJD_S311_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5916/trunk/fritzing/parts/svg/core/schematic/Color_Sensor_Breakout_ADJD_S311_schematic.svg
+END
+Tricolor-LED v16_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/Tricolor-LED%20v16_schematic.svg
+END
+peltier_element.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/peltier_element.svg
+END
+atmega168_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5173/trunk/fritzing/parts/svg/core/schematic/atmega168_schematic.svg
+END
+PICAXE_08M_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/PICAXE_08M_schematic.svg
+END
+PICAXE_18M_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/PICAXE_18M_schematic.svg
+END
+QFN-24_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/QFN-24_schematic.svg
+END
+jlpcb-089_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5659/trunk/fritzing/parts/svg/core/schematic/jlpcb-089_schematic.svg
+END
+Mainboard-v18_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/Mainboard-v18_schematic.svg
+END
+ADXL335_v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5667/trunk/fritzing/parts/svg/core/schematic/ADXL335_v13_schematic.svg
+END
+MIDI_Shield-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5077/trunk/fritzing/parts/svg/core/schematic/MIDI_Shield-v13_schematic.svg
+END
+DB25F.svg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5524/trunk/fritzing/parts/svg/core/schematic/DB25F.svg
+END
+NetduinoMini.svg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/NetduinoMini.svg
+END
+capacitor_polar.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4979/trunk/fritzing/parts/svg/core/schematic/capacitor_polar.svg
+END
+9DoF-Stick-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5567/trunk/fritzing/parts/svg/core/schematic/9DoF-Stick-v13_schematic.svg
+END
+Stepper_Motor_-_Bipolar__schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3579/trunk/fritzing/parts/svg/core/schematic/Stepper_Motor_-_Bipolar__schematic.svg
+END
+screwshield-v15_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5206/trunk/fritzing/parts/svg/core/schematic/screwshield-v15_schematic.svg
+END
+spdt-switch.svg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3161/trunk/fritzing/parts/svg/core/schematic/spdt-switch.svg
+END
+LED_Matrix_Kingbright_TA07-11.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5517/trunk/fritzing/parts/svg/core/schematic/LED_Matrix_Kingbright_TA07-11.svg
+END
+relay.svg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4504/trunk/fritzing/parts/svg/core/schematic/relay.svg
+END
+16-segment display.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/16-segment%20display.svg
+END
+LeDeuligne1.1_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5628/trunk/fritzing/parts/svg/core/schematic/LeDeuligne1.1_schematic.svg
+END
+piezo_sensor.svg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/piezo_sensor.svg
+END
+schematic-arduino-uno-r3.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5681/trunk/fritzing/parts/svg/core/schematic/schematic-arduino-uno-r3.svg
+END
+resonator-3pin.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/resonator-3pin.svg
+END
+uM_FPUv3_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/uM_FPUv3_schematic.svg
+END
+HEF4094228f.svg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5458/trunk/fritzing/parts/svg/core/schematic/HEF4094228f.svg
+END
+Netduino.svg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/Netduino.svg
+END
+7segment_100_an.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5426/trunk/fritzing/parts/svg/core/schematic/7segment_100_an.svg
+END
+Parallax_Propeller.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4094/trunk/fritzing/parts/svg/core/schematic/Parallax_Propeller.svg
+END
+SN74LS32N_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4769/trunk/fritzing/parts/svg/core/schematic/SN74LS32N_schematic.svg
+END
+voltage_regulator_5v.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3711/trunk/fritzing/parts/svg/core/schematic/voltage_regulator_5v.svg
+END
+DS1307_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/DS1307_schematic.svg
+END
+Arduino_Ethernet_Shield__1f9aa78a3d98991.svg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4475/trunk/fritzing/parts/svg/core/schematic/Arduino_Ethernet_Shield__1f9aa78a3d98991.svg
+END
+voltage_regulator_LM317.svg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/voltage_regulator_LM317.svg
+END
+audiojack_breakout-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/audiojack_breakout-v11_schematic.svg
+END
+jlpcb-104_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5659/trunk/fritzing/parts/svg/core/schematic/jlpcb-104_schematic.svg
+END
+PICAXE_40X2_3V_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/PICAXE_40X2_3V_schematic.svg
+END
+Arduino-Pro-Mini-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/Arduino-Pro-Mini-v11_schematic.svg
+END
+Joystick_Shield-v14_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5077/trunk/fritzing/parts/svg/core/schematic/Joystick_Shield-v14_schematic.svg
+END
+BASIC_Stamp_2sx.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/BASIC_Stamp_2sx.svg
+END
+NCP1400_5V_Step-Up_v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/NCP1400_5V_Step-Up_v11_schematic.svg
+END
+PICAXE_28X2_3V_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/PICAXE_28X2_3V_schematic.svg
+END
+LilyPad-Light Sensor-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5077/trunk/fritzing/parts/svg/core/schematic/LilyPad-Light%20Sensor-v13_schematic.svg
+END
+PICAXE_40X_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/PICAXE_40X_schematic.svg
+END
+generic_ic_dip_4_schem.svg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5729/trunk/fritzing/parts/svg/core/schematic/generic_ic_dip_4_schem.svg
+END
+24LC02_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/24LC02_schematic.svg
+END
+atmega_schematic_8e4b4f3e54f56b3f712afc6a8e6a8a71.svg
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5900/trunk/fritzing/parts/svg/core/schematic/atmega_schematic_8e4b4f3e54f56b3f712afc6a8e6a8a71.svg
+END
+inductor.svg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5160/trunk/fritzing/parts/svg/core/schematic/inductor.svg
+END
+EasyDriver_v44_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5214/trunk/fritzing/parts/svg/core/schematic/EasyDriver_v44_schematic.svg
+END
+SN74LS21N_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4738/trunk/fritzing/parts/svg/core/schematic/SN74LS21N_schematic.svg
+END
+fet_p.svg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/fet_p.svg
+END
+ADXL345-BreakoutBoard-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/ADXL345-BreakoutBoard-v13_schematic.svg
+END
+PWM-Shield-v12_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5620/trunk/fritzing/parts/svg/core/schematic/PWM-Shield-v12_schematic.svg
+END
+screw_terminal_2_100mil_schem.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5729/trunk/fritzing/parts/svg/core/schematic/screw_terminal_2_100mil_schem.svg
+END
+Op Amp Breakout-v16_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/Op%20Amp%20Breakout-v16_schematic.svg
+END
+PICAXE_20X2_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/PICAXE_20X2_schematic.svg
+END
+resistor.svg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/resistor.svg
+END
+SSOP24_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/SSOP24_schematic.svg
+END
+AD5206_Digital_Potentiometer__1569b6e5e5.svg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4475/trunk/fritzing/parts/svg/core/schematic/AD5206_Digital_Potentiometer__1569b6e5e5.svg
+END
+LED_Matrix_Kingbright_TC07-11.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5517/trunk/fritzing/parts/svg/core/schematic/LED_Matrix_Kingbright_TC07-11.svg
+END
+basic_poti.svg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/basic_poti.svg
+END
+LilyPad SimplePower-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/LilyPad%20SimplePower-v13_schematic.svg
+END
+PICAXE_28X2_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/PICAXE_28X2_schematic.svg
+END
+schematic-arduino-diecimila.svg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3532/trunk/fritzing/parts/svg/core/schematic/schematic-arduino-diecimila.svg
+END
+proto_shield_v6MEGA_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5385/trunk/fritzing/parts/svg/core/schematic/proto_shield_v6MEGA_schematic.svg
+END
+ISD1932 Breakout-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/ISD1932%20Breakout-v11_schematic.svg
+END
+MonsterMoto-Shield-v12_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5567/trunk/fritzing/parts/svg/core/schematic/MonsterMoto-Shield-v12_schematic.svg
+END
+uM_FPUv2_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/uM_FPUv2_schematic.svg
+END
+ULN2003A_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/ULN2003A_schematic.svg
+END
+generic_female_pin_header_1_100mil_schem.svg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5729/trunk/fritzing/parts/svg/core/schematic/generic_female_pin_header_1_100mil_schem.svg
+END
+QFN-32_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/QFN-32_schematic.svg
+END
+74HC595 Shift Reg Breakout-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5567/trunk/fritzing/parts/svg/core/schematic/74HC595%20Shift%20Reg%20Breakout-v11_schematic.svg
+END
+generic_male_pin_header_10_100mil_schem.svg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5947/trunk/fritzing/parts/svg/core/schematic/generic_male_pin_header_10_100mil_schem.svg
+END
+SN74LS20N_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4738/trunk/fritzing/parts/svg/core/schematic/SN74LS20N_schematic.svg
+END
+SO20W_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/SO20W_schematic.svg
+END
+HMC5883L_Breakout-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/HMC5883L_Breakout-v11_schematic.svg
+END
+BASIC_Stamp_2p24.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/BASIC_Stamp_2p24.svg
+END
+Amplified-Mic-Electret-v14_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/Amplified-Mic-Electret-v14_schematic.svg
+END
+Arduino_Fio.svg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4397/trunk/fritzing/parts/svg/core/schematic/Arduino_Fio.svg
+END
+led-SuperFlux.svg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5514/trunk/fritzing/parts/svg/core/schematic/led-SuperFlux.svg
+END
+xbeeshield-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5206/trunk/fritzing/parts/svg/core/schematic/xbeeshield-v13_schematic.svg
+END
+capacitor.svg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4979/trunk/fritzing/parts/svg/core/schematic/capacitor.svg
+END
+LilyPad Battery-Connect-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5077/trunk/fritzing/parts/svg/core/schematic/LilyPad%20Battery-Connect-v11_schematic.svg
+END
+Teensy_2.0_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/Teensy_2.0_schematic.svg
+END
+dc_motor.svg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/dc_motor.svg
+END
+Arduino Voice Shield-v16_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5206/trunk/fritzing/parts/svg/core/schematic/Arduino%20Voice%20Shield-v16_schematic.svg
+END
+PICAXE_14M_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/PICAXE_14M_schematic.svg
+END
+Atmega_168_TQFP32_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5733/trunk/fritzing/parts/svg/core/schematic/Atmega_168_TQFP32_schematic.svg
+END
+HIH-4030_Breakout-v10_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/HIH-4030_Breakout-v10_schematic.svg
+END
+loudspeaker.svg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/loudspeaker.svg
+END
+controller_arduino_nano.svg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/controller_arduino_nano.svg
+END
+thermalprinter_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5605/trunk/fritzing/parts/svg/core/schematic/thermalprinter_schematic.svg
+END
+Real_Time_Clock_Module___DS1307_RTC_Brea.svg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5481/trunk/fritzing/parts/svg/core/schematic/Real_Time_Clock_Module___DS1307_RTC_Brea.svg
+END
+7segment_13_cat.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5426/trunk/fritzing/parts/svg/core/schematic/7segment_13_cat.svg
+END
+24LC01_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/24LC01_schematic.svg
+END
+HTSSOP28.svg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5511/trunk/fritzing/parts/svg/core/schematic/HTSSOP28.svg
+END
+SOIC18-W_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/SOIC18-W_schematic.svg
+END
+SOIC-14_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/SOIC-14_schematic.svg
+END
+reed_switch.svg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/reed_switch.svg
+END
+LilyPad-Accelerometer-v17_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/LilyPad-Accelerometer-v17_schematic.svg
+END
+PICAXE_28_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/PICAXE_28_schematic.svg
+END
+MIDI Music Shield-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5206/trunk/fritzing/parts/svg/core/schematic/MIDI%20Music%20Shield-v13_schematic.svg
+END
+PICAXE_40X2_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/PICAXE_40X2_schematic.svg
+END
+EDGY_motor_control.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5501/trunk/fritzing/parts/svg/core/schematic/EDGY_motor_control.svg
+END
+ArduPilotMega_v15_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5567/trunk/fritzing/parts/svg/core/schematic/ArduPilotMega_v15_schematic.svg
+END
+Memoire-1.0_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5628/trunk/fritzing/parts/svg/core/schematic/Memoire-1.0_schematic.svg
+END
+WIZ820io_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5644/trunk/fritzing/parts/svg/core/schematic/WIZ820io_schematic.svg
+END
+PICAXE_28X1_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/PICAXE_28X1_schematic.svg
+END
+Wireless_SD_v3_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5907/trunk/fritzing/parts/svg/core/schematic/Wireless_SD_v3_schematic.svg
+END
+LilyPad-Simple-v22_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/LilyPad-Simple-v22_schematic.svg
+END
+PIC_16F877A_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5916/trunk/fritzing/parts/svg/core/schematic/PIC_16F877A_schematic.svg
+END
+controller_arduino_mini.svg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4310/trunk/fritzing/parts/svg/core/schematic/controller_arduino_mini.svg
+END
+SSOP28DB_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/SSOP28DB_schematic.svg
+END
+5DOF-v25_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/5DOF-v25_schematic.svg
+END
+Adafruit_Atmega32u4_Breakout.svg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5732/trunk/fritzing/parts/svg/core/schematic/Adafruit_Atmega32u4_Breakout.svg
+END
+7segment_20,32_an.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5421/trunk/fritzing/parts/svg/core/schematic/7segment_20,32_an.svg
+END
+LilyPad-Button-v12_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5077/trunk/fritzing/parts/svg/core/schematic/LilyPad-Button-v12_schematic.svg
+END
+L3G4200D-Breakout-v10_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5567/trunk/fritzing/parts/svg/core/schematic/L3G4200D-Breakout-v10_schematic.svg
+END
+lm35_schem.svg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5406/trunk/fritzing/parts/svg/core/schematic/lm35_schem.svg
+END
+BMP085 Breakout-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/BMP085%20Breakout-v13_schematic.svg
+END
+555timerschematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/555timerschematic.svg
+END
+controller_arduino_pro_mini.svg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/controller_arduino_pro_mini.svg
+END
+PICAXE_18_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/PICAXE_18_schematic.svg
+END
+mystery_part_3_schem.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5729/trunk/fritzing/parts/svg/core/schematic/mystery_part_3_schem.svg
+END
+Fuse_with_Handler_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5630/trunk/fritzing/parts/svg/core/schematic/Fuse_with_Handler_schematic.svg
+END
+GPSShield-v15_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5206/trunk/fritzing/parts/svg/core/schematic/GPSShield-v15_schematic.svg
+END
+RN41-v14_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5567/trunk/fritzing/parts/svg/core/schematic/RN41-v14_schematic.svg
+END
+MP3 Shield-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/MP3%20Shield-v13_schematic.svg
+END
+dc_powersupply.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/dc_powersupply.svg
+END
+basic_transistor_pnp.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/basic_transistor_pnp.svg
+END
+lcd-GDM1602K.svg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5546/trunk/fritzing/parts/svg/core/schematic/lcd-GDM1602K.svg
+END
+BASIC_Stamp_2pe.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/BASIC_Stamp_2pe.svg
+END
+24LC08_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/24LC08_schematic.svg
+END
+PICAXE_08_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/PICAXE_08_schematic.svg
+END
+TEMT6000_Breakout-v12_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/TEMT6000_Breakout-v12_schematic.svg
+END
+Ardumoto v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5206/trunk/fritzing/parts/svg/core/schematic/Ardumoto%20v13_schematic.svg
+END
+led.svg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4504/trunk/fritzing/parts/svg/core/schematic/led.svg
+END
+ATtiny85_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5870/trunk/fritzing/parts/svg/core/schematic/ATtiny85_schematic.svg
+END
+capacitor_variable_2_legs.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5826/trunk/fritzing/parts/svg/core/schematic/capacitor_variable_2_legs.svg
+END
+GLCD_128x64.svg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4444/trunk/fritzing/parts/svg/core/schematic/GLCD_128x64.svg
+END
+PICAXE_40X1_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/PICAXE_40X1_schematic.svg
+END
+USBHostShield-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5206/trunk/fritzing/parts/svg/core/schematic/USBHostShield-v13_schematic.svg
+END
+74HC595.svg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/74HC595.svg
+END
+LilyPad-slide-switch13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5077/trunk/fritzing/parts/svg/core/schematic/LilyPad-slide-switch13_schematic.svg
+END
+mp3-trigger-v22_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5077/trunk/fritzing/parts/svg/core/schematic/mp3-trigger-v22_schematic.svg
+END
+IOIO-v15_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5567/trunk/fritzing/parts/svg/core/schematic/IOIO-v15_schematic.svg
+END
+M5450_LED_Driver_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5916/trunk/fritzing/parts/svg/core/schematic/M5450_LED_Driver_schematic.svg
+END
+avr_isp_10_pin_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5851/trunk/fritzing/parts/svg/core/schematic/avr_isp_10_pin_schematic.svg
+END
+basic_fsr.svg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/basic_fsr.svg
+END
+schematic-arduino-lilypad.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/schematic-arduino-lilypad.svg
+END
+7segment_100_cat.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5426/trunk/fritzing/parts/svg/core/schematic/7segment_100_cat.svg
+END
+h-bridge_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/h-bridge_schematic.svg
+END
+PICAXE_18A_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/PICAXE_18A_schematic.svg
+END
+PICAXE_28A_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/PICAXE_28A_schematic.svg
+END
+LQFP-32_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/LQFP-32_schematic.svg
+END
+PICAXE_20M_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/PICAXE_20M_schematic.svg
+END
+11LC080_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/11LC080_schematic.svg
+END
+voltage_regulator_7833.svg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3711/trunk/fritzing/parts/svg/core/schematic/voltage_regulator_7833.svg
+END
+24LC512_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/24LC512_schematic.svg
+END
+arduinoXbeere_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5907/trunk/fritzing/parts/svg/core/schematic/arduinoXbeere_schematic.svg
+END
+25LC080_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/25LC080_schematic.svg
+END
+SI4735 Shield-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5567/trunk/fritzing/parts/svg/core/schematic/SI4735%20Shield-v13_schematic.svg
+END
+jlpcb-128_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5659/trunk/fritzing/parts/svg/core/schematic/jlpcb-128_schematic.svg
+END
+power_plug.svg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4245/trunk/fritzing/parts/svg/core/schematic/power_plug.svg
+END
+ProtoShield-v25_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5206/trunk/fritzing/parts/svg/core/schematic/ProtoShield-v25_schematic.svg
+END
+din-5_midi_connector.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/din-5_midi_connector.svg
+END
+canbus_shield-v12_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/canbus_shield-v12_schematic.svg
+END
+QFN-28_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/QFN-28_schematic.svg
+END
+24LC1025_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/24LC1025_schematic.svg
+END
+diode_photo.svg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4504/trunk/fritzing/parts/svg/core/schematic/diode_photo.svg
+END
+24LC64_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/24LC64_schematic.svg
+END
+Touch_Shield-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5077/trunk/fritzing/parts/svg/core/schematic/Touch_Shield-v11_schematic.svg
+END
+controller_wiring.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/controller_wiring.svg
+END
+Arduino-Ethernet-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5567/trunk/fritzing/parts/svg/core/schematic/Arduino-Ethernet-v11_schematic.svg
+END
+7segment_9,9_an.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5426/trunk/fritzing/parts/svg/core/schematic/7segment_9,9_an.svg
+END
+PowerDriver-Shield-v13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/PowerDriver-Shield-v13_schematic.svg
+END
+ArduinoBluetoothMatev13_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/ArduinoBluetoothMatev13_schematic.svg
+END
+generic_male_pin_header_1_100mil_schem.svg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5729/trunk/fritzing/parts/svg/core/schematic/generic_male_pin_header_1_100mil_schem.svg
+END
+diode_tunnel.svg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4504/trunk/fritzing/parts/svg/core/schematic/diode_tunnel.svg
+END
+Buzzer-v15_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5077/trunk/fritzing/parts/svg/core/schematic/Buzzer-v15_schematic.svg
+END
+low_dropout_voltage_regulator_TO220_4_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5625/trunk/fritzing/parts/svg/core/schematic/low_dropout_voltage_regulator_TO220_4_schematic.svg
+END
+QFN-20-0.4MM_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/QFN-20-0.4MM_schematic.svg
+END
+Color-LCD-Shield-v14_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5077/trunk/fritzing/parts/svg/core/schematic/Color-LCD-Shield-v14_schematic.svg
+END
+WiFly_Shield-v17_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5206/trunk/fritzing/parts/svg/core/schematic/WiFly_Shield-v17_schematic.svg
+END
+SSOP48_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4853/trunk/fritzing/parts/svg/core/schematic/SSOP48_schematic.svg
+END
+gogoboard_4.043282.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/gogoboard_4.043282.svg
+END
+ITG-3200-v11_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5181/trunk/fritzing/parts/svg/core/schematic/ITG-3200-v11_schematic.svg
+END
+24LC16_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/24LC16_schematic.svg
+END
+TQFP32-5MM_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5034/trunk/fritzing/parts/svg/core/schematic/TQFP32-5MM_schematic.svg
+END
+controller_arduino_mega.svg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/controller_arduino_mega.svg
+END
+tilt_switch.svg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4504/trunk/fritzing/parts/svg/core/schematic/tilt_switch.svg
+END
+DIP_Relay_D31A_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5789/trunk/fritzing/parts/svg/core/schematic/DIP_Relay_D31A_schematic.svg
+END
+ACS712 Low Current Sensor Board v12_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5260/trunk/fritzing/parts/svg/core/schematic/ACS712%20Low%20Current%20Sensor%20Board%20v12_schematic.svg
+END
+BASIC_Stamp_1.svg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/BASIC_Stamp_1.svg
+END
+RFID_USB_Reader-v14_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/RFID_USB_Reader-v14_schematic.svg
+END
+11LC160_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/11LC160_schematic.svg
+END
+FTDI Basic-v13_lily_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5622/trunk/fritzing/parts/svg/core/schematic/FTDI%20Basic-v13_lily_schematic.svg
+END
+LilyPad_LED-v14_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5013/trunk/fritzing/parts/svg/core/schematic/LilyPad_LED-v14_schematic.svg
+END
+25LC160_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/25LC160_schematic.svg
+END
+L293D_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4798/trunk/fritzing/parts/svg/core/schematic/L293D_schematic.svg
+END
+servo_schematic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5172/trunk/fritzing/parts/svg/core/schematic/servo_schematic.svg
+END
+Rotary_Encoder.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5489/trunk/fritzing/parts/svg/core/schematic/Rotary_Encoder.svg
+END

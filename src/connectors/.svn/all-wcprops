@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5976/trunk/fritzing/src/connectors
+END
+bus.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5309/trunk/fritzing/src/connectors/bus.h
+END
+connector.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5666/trunk/fritzing/src/connectors/connector.h
+END
+ercdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5309/trunk/fritzing/src/connectors/ercdata.cpp
+END
+ercdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5309/trunk/fritzing/src/connectors/ercdata.h
+END
+connectoritem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5976/trunk/fritzing/src/connectors/connectoritem.cpp
+END
+svgidlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5309/trunk/fritzing/src/connectors/svgidlayer.cpp
+END
+connectoritem.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5935/trunk/fritzing/src/connectors/connectoritem.h
+END
+svgidlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5308/trunk/fritzing/src/connectors/svgidlayer.h
+END
+busshared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5721/trunk/fritzing/src/connectors/busshared.cpp
+END
+connectorshared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5928/trunk/fritzing/src/connectors/connectorshared.cpp
+END
+nonconnectoritem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5442/trunk/fritzing/src/connectors/nonconnectoritem.cpp
+END
+busshared.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5721/trunk/fritzing/src/connectors/busshared.h
+END
+connectorshared.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5721/trunk/fritzing/src/connectors/connectorshared.h
+END
+bus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5309/trunk/fritzing/src/connectors/bus.cpp
+END
+nonconnectoritem.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5442/trunk/fritzing/src/connectors/nonconnectoritem.h
+END
+connector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5721/trunk/fritzing/src/connectors/connector.cpp
+END

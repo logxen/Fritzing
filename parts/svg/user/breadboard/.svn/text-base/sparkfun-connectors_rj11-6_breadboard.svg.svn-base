@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.548in' height='0.623in' viewBox='0 0 13.9192 15.8242' >
+<g id='breadboard'>
+<path fill='#1F7A34' stroke='none' stroke-width='0' d='M0,0l13.9192,0 0,15.8242 -13.9192,0 0,-15.8242z
+M3.2766,1.6256a0.508,0.508 0 1 0 1.016,0 0.508,0.508 0 1 0 -1.016,0z
+M4.5466,4.1656a0.508,0.508 0 1 0 1.016,0 0.508,0.508 0 1 0 -1.016,0z
+M5.8166,1.6256a0.508,0.508 0 1 0 1.016,0 0.508,0.508 0 1 0 -1.016,0z
+M7.0866,4.1656a0.508,0.508 0 1 0 1.016,0 0.508,0.508 0 1 0 -1.016,0z
+M8.3566,1.6256a0.508,0.508 0 1 0 1.016,0 0.508,0.508 0 1 0 -1.016,0z
+M9.6266,4.1656a0.508,0.508 0 1 0 1.016,0 0.508,0.508 0 1 0 -1.016,0z
+'/>
+<circle id='connector0pin' connectorname='1' cx='3.7846' cy='1.6256' r='0.7239' stroke='#9A916C' stroke-width='0.4318' fill='none' />
+<circle id='connector1pin' connectorname='2' cx='5.0546' cy='4.1656' r='0.7239' stroke='#9A916C' stroke-width='0.4318' fill='none' />
+<circle id='connector2pin' connectorname='3' cx='6.3246' cy='1.6256' r='0.7239' stroke='#9A916C' stroke-width='0.4318' fill='none' />
+<circle id='connector3pin' connectorname='4' cx='7.5946' cy='4.1656' r='0.7239' stroke='#9A916C' stroke-width='0.4318' fill='none' />
+<circle id='connector4pin' connectorname='5' cx='8.8646' cy='1.6256' r='0.7239' stroke='#9A916C' stroke-width='0.4318' fill='none' />
+<circle id='connector5pin' connectorname='6' cx='10.1346' cy='4.1656' r='0.7239' stroke='#9A916C' stroke-width='0.4318' fill='none' />
+<circle cx='1.8796' cy='10.5156' r='1.6256' stroke='black' stroke-width='0' fill='black' id='nonconn4' />
+<circle cx='12.0396' cy='10.5156' r='1.6256' stroke='black' stroke-width='0' fill='black' id='nonconn5' />
+<line class='other' x1='13.8176' y1='15.7226' x2='13.8176' y2='0.1016' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='13.8176' y1='0.1016' x2='0.1016' y2='0.1016' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='0.1016' y1='0.1016' x2='0.1016' y2='15.7226' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+<line class='other' x1='13.8176' y1='15.7226' x2='0.1016' y2='15.7226' stroke='#f8f8f8' stroke-width='0.2032' stroke-linecap='round'/>
+</g>
+</svg>

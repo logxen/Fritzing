@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5721/trunk/fritzing/src/itemselection
+END
+connectorrectangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5309/trunk/fritzing/src/itemselection/connectorrectangle.cpp
+END
+resizablerectitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3849/trunk/fritzing/src/itemselection/resizablerectitem.h
+END
+terminalpointitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5721/trunk/fritzing/src/itemselection/terminalpointitem.cpp
+END
+connectorrectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5309/trunk/fritzing/src/itemselection/connectorrectangle.h
+END
+cornerhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5309/trunk/fritzing/src/itemselection/cornerhandler.cpp
+END
+terminalpointitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5721/trunk/fritzing/src/itemselection/terminalpointitem.h
+END
+cornerhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5309/trunk/fritzing/src/itemselection/cornerhandler.h
+END
+resizablerectitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3849/trunk/fritzing/src/itemselection/resizablerectitem.cpp
+END

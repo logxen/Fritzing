@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 67
+allParts.dbg.fz
+allParts.dbg.fzb
+contribParts.fzb
+nonCoreParts.fzb
+
+END

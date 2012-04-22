@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception
+END
+diagnostic_information.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/diagnostic_information.hpp
+END
+info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/info.hpp
+END
+exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/exception.hpp
+END
+errinfo_at_line.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/errinfo_at_line.hpp
+END
+errinfo_api_function.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/errinfo_api_function.hpp
+END
+errinfo_file_name.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/errinfo_file_name.hpp
+END
+get_error_info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/get_error_info.hpp
+END
+info_tuple.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/info_tuple.hpp
+END
+error_info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/error_info.hpp
+END
+to_string_stub.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/to_string_stub.hpp
+END
+enable_current_exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/enable_current_exception.hpp
+END
+all.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/all.hpp
+END
+to_string.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/to_string.hpp
+END
+errinfo_errno.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/errinfo_errno.hpp
+END
+enable_error_info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/enable_error_info.hpp
+END
+current_exception_cast.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/current_exception_cast.hpp
+END
+errinfo_file_handle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/errinfo_file_handle.hpp
+END
+errinfo_type_info_name.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/errinfo_type_info_name.hpp
+END
+errinfo_nested_exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/errinfo_nested_exception.hpp
+END
+errinfo_file_open_mode.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/exception/errinfo_file_open_mode.hpp
+END

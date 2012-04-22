@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/functional/hash/detail
+END
+hash_float_x86.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/functional/hash/detail/hash_float_x86.hpp
+END
+float_functions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/functional/hash/detail/float_functions.hpp
+END
+limits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/functional/hash/detail/limits.hpp
+END
+hash_float_generic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/functional/hash/detail/hash_float_generic.hpp
+END
+hash_float.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/functional/hash/detail/hash_float.hpp
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5787/trunk/fritzing/src/program
+END
+trienode.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4183/trunk/fritzing/src/program/trienode.h
+END
+highlighter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4353/trunk/fritzing/src/program/highlighter.cpp
+END
+programtab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5759/trunk/fritzing/src/program/programtab.cpp
+END
+programwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5787/trunk/fritzing/src/program/programwindow.cpp
+END
+syntaxer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4353/trunk/fritzing/src/program/syntaxer.h
+END
+highlighter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4183/trunk/fritzing/src/program/highlighter.h
+END
+programtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5759/trunk/fritzing/src/program/programtab.h
+END
+programwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5760/trunk/fritzing/src/program/programwindow.h
+END
+trienode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4183/trunk/fritzing/src/program/trienode.cpp
+END
+syntaxer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4353/trunk/fritzing/src/program/syntaxer.cpp
+END

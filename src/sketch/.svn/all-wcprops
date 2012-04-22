@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5979/trunk/fritzing/src/sketch
+END
+pcbsketchwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5973/trunk/fritzing/src/sketch/pcbsketchwidget.h
+END
+breadboardsketchwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5762/trunk/fritzing/src/sketch/breadboardsketchwidget.h
+END
+zoomablegraphicsview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5775/trunk/fritzing/src/sketch/zoomablegraphicsview.cpp
+END
+sketchwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5979/trunk/fritzing/src/sketch/sketchwidget.cpp
+END
+schematicsketchwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5944/trunk/fritzing/src/sketch/schematicsketchwidget.cpp
+END
+infographicsview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5881/trunk/fritzing/src/sketch/infographicsview.cpp
+END
+zoomablegraphicsview.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5308/trunk/fritzing/src/sketch/zoomablegraphicsview.h
+END
+pcbsketchwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5978/trunk/fritzing/src/sketch/pcbsketchwidget.cpp
+END
+sketchwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5961/trunk/fritzing/src/sketch/sketchwidget.h
+END
+breadboardsketchwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5909/trunk/fritzing/src/sketch/breadboardsketchwidget.cpp
+END
+schematicsketchwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5945/trunk/fritzing/src/sketch/schematicsketchwidget.h
+END
+infographicsview.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5881/trunk/fritzing/src/sketch/infographicsview.h
+END

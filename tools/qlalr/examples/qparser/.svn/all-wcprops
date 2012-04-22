@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/examples/qparser
+END
+qparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/examples/qparser/qparser.h
+END
+calc.g
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/examples/qparser/calc.g
+END
+COMPILE
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/examples/qparser/COMPILE
+END
+calc.l
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/examples/qparser/calc.l
+END
+qparser.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/examples/qparser/qparser.pro
+END
+qparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1674/trunk/fritzing/tools/qlalr/examples/qparser/qparser.cpp
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5780/trunk/fritzing/resources/styles
+END
+inviewhelp.qss
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2935/trunk/fritzing/resources/styles/inviewhelp.qss
+END
+fritzing.qss
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5780/trunk/fritzing/resources/styles/fritzing.qss
+END
+win.qss
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4901/trunk/fritzing/resources/styles/win.qss
+END
+linux.qss
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5354/trunk/fritzing/resources/styles/linux.qss
+END
+programwindow.qss
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4343/trunk/fritzing/resources/styles/programwindow.qss
+END
+partseditor.qss
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3577/trunk/fritzing/resources/styles/partseditor.qss
+END
+mac.qss
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4901/trunk/fritzing/resources/styles/mac.qss
+END
+linux-gnome.qss
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3038/trunk/fritzing/resources/styles/linux-gnome.qss
+END
+updatedialog.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2256/trunk/fritzing/resources/styles/updatedialog.css
+END
+linux-kde-oxygen.qss
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4901/trunk/fritzing/resources/styles/linux-kde-oxygen.qss
+END

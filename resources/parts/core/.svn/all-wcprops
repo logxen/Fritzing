@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5886/trunk/fritzing/resources/parts/core
+END
+hole.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4301/trunk/fritzing/resources/parts/core/hole.fzp
+END
+rectangle_pcb.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4290/trunk/fritzing/resources/parts/core/rectangle_pcb.fzp
+END
+copper0logoimage.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4999/trunk/fritzing/resources/parts/core/copper0logoimage.fzp
+END
+power.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4290/trunk/fritzing/resources/parts/core/power.fzp
+END
+copper1logoimage.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4999/trunk/fritzing/resources/parts/core/copper1logoimage.fzp
+END
+copper0logotext.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4999/trunk/fritzing/resources/parts/core/copper0logotext.fzp
+END
+ground.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4290/trunk/fritzing/resources/parts/core/ground.fzp
+END
+copper1logotext.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4999/trunk/fritzing/resources/parts/core/copper1logotext.fzp
+END
+rectangle_pcb_two_layers.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4290/trunk/fritzing/resources/parts/core/rectangle_pcb_two_layers.fzp
+END
+jumper.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5420/trunk/fritzing/resources/parts/core/jumper.fzp
+END
+dcpower.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4290/trunk/fritzing/resources/parts/core/dcpower.fzp
+END
+logoimage.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4973/trunk/fritzing/resources/parts/core/logoimage.fzp
+END
+pad.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5886/trunk/fritzing/resources/parts/core/pad.fzp
+END
+logotext.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4973/trunk/fritzing/resources/parts/core/logotext.fzp
+END
+note.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5364/trunk/fritzing/resources/parts/core/note.fzp
+END
+wire.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5721/trunk/fritzing/resources/parts/core/wire.fzp
+END
+cmRuler.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5721/trunk/fritzing/resources/parts/core/cmRuler.fzp
+END
+schematic_frame.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5159/trunk/fritzing/resources/parts/core/schematic_frame.fzp
+END
+30.20PerfboardModuleID.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5180/trunk/fritzing/resources/parts/core/30.20PerfboardModuleID.fzp
+END
+groundplane.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5166/trunk/fritzing/resources/parts/core/groundplane.fzp
+END
+via.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4301/trunk/fritzing/resources/parts/core/via.fzp
+END
+30.20StripboardModuleID.fzp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5180/trunk/fritzing/resources/parts/core/30.20StripboardModuleID.fzp
+END

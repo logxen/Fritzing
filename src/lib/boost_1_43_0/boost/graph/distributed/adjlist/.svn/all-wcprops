@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/distributed/adjlist
+END
+serialization.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/distributed/adjlist/serialization.hpp
+END
+handlers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/distributed/adjlist/handlers.hpp
+END
+initialize.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/distributed/adjlist/initialize.hpp
+END
+redistribute.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4418/trunk/fritzing/src/lib/boost_1_43_0/boost/graph/distributed/adjlist/redistribute.hpp
+END
